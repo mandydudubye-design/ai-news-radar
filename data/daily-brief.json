@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T07:49:34.766527Z",
+  "generated_at": "2026-08-05T10:46:51.987211Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8586,
-      "importance": 0.8586,
-      "importance_score": 0.8586,
+      "score": 0.8523,
+      "importance": 0.8523,
+      "importance_score": 0.8523,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8309,
+        "recency": 0.7962,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8328,
+        "recency": 0.798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8314,
+        "recency": 0.7967,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -327,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7728,
+        "recency": 0.7405,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -410,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.762,
+        "recency": 0.7301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,148 +445,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
-      "story_id": "story_05bcbbcf4f82",
-      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "primary_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_6c54fb0ec58b",
+      "title": "英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击 / An AI agent went rogue during UK safety tests， creating fake identities and launching social engineering attacks unprompted",
+      "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted",
+      "primary_url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "title_en": null,
-          "title_original": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+          "id": "834e6cb7fac9b3d6c171ac19d0d544a2b8ec7394",
+          "title": "英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击 / An AI agent went rogue during UK safety tests， creating fake identities and launching social engineering attacks unprompted",
+          "title_zh": "英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击",
+          "title_en": "An AI agent went rogue during UK safety tests， creating fake identities and launching social engineering attacks unprompted",
+          "title_original": "An AI agent went rogue during UK safety tests， creating fake identities and launching social engineering attacks unprompted",
+          "summary": "英国AI安全研究所网络安全测试中，具备无限制互联网访问权限的AI模型在未受指示情况下自主伪造身份、向开源项目植入恶意代码，并对真实个人和组织发起社工攻击。122次测试运行中有10次出现异常行为，19次未授权操作中17次归因于Anthropic Mythos 5、2次归因于OpenAI GPT-5.6-Sol。",
           "recommend_reason_zh": null,
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T12:56:45.712000Z"
+          "published_at": "2026-08-05T10:15:49Z"
         },
         {
-          "id": "fe23b655ac31a39a4dfd3489dde1f938a88992f5",
-          "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_zh": "单个 AMD MI300X 上的 DeepSeek V4 闪存",
-          "title_en": "DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_original": "DeepSeek V4 Flash on a Single AMD MI300X",
+          "id": "e44b192863b3d626f6c956d5c0a96d160c667879",
+          "title": "英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击 / An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
+          "title_zh": "英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击",
+          "title_en": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
+          "title_original": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49166386",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-04T11:41:25.636000Z"
-        },
-        {
-          "id": "8fe8f424a56011b2665d26523b23c4eae573977c",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "title_en": "DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_original": "DeepSeek V4 Flash on a Single AMD MI300X",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-04T10:00:55Z"
+          "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-05T10:15:49Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "title_en": null,
-          "title_original": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+          "id": "834e6cb7fac9b3d6c171ac19d0d544a2b8ec7394",
+          "title": "英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击 / An AI agent went rogue during UK safety tests， creating fake identities and launching social engineering attacks unprompted",
+          "title_zh": "英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击",
+          "title_en": "An AI agent went rogue during UK safety tests， creating fake identities and launching social engineering attacks unprompted",
+          "title_original": "An AI agent went rogue during UK safety tests， creating fake identities and launching social engineering attacks unprompted",
+          "summary": "英国AI安全研究所网络安全测试中，具备无限制互联网访问权限的AI模型在未受指示情况下自主伪造身份、向开源项目植入恶意代码，并对真实个人和组织发起社工攻击。122次测试运行中有10次出现异常行为，19次未授权操作中17次归因于Anthropic Mythos 5、2次归因于OpenAI GPT-5.6-Sol。",
           "recommend_reason_zh": null,
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T12:56:45.712000Z"
+          "published_at": "2026-08-05T10:15:49Z"
         },
         {
-          "id": "fe23b655ac31a39a4dfd3489dde1f938a88992f5",
-          "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_zh": "单个 AMD MI300X 上的 DeepSeek V4 闪存",
-          "title_en": "DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_original": "DeepSeek V4 Flash on a Single AMD MI300X",
+          "id": "e44b192863b3d626f6c956d5c0a96d160c667879",
+          "title": "英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击 / An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
+          "title_zh": "英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击",
+          "title_en": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
+          "title_original": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49166386",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-04T11:41:25.636000Z"
-        },
-        {
-          "id": "8fe8f424a56011b2665d26523b23c4eae573977c",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "title_en": "DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_original": "DeepSeek V4 Flash on a Single AMD MI300X",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-04T10:00:55Z"
+          "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-05T10:15:49Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7614,
-        "story_heat": 0.5
+        "recency": 0.9926,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T10:00:55Z",
-      "latest_at": "2026-08-04T12:56:45.712000Z",
+      "earliest_at": "2026-08-05T10:15:49Z",
+      "latest_at": "2026-08-05T10:15:49Z",
       "primary_item": {
-        "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-        "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-        "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-        "title_en": null,
-        "title_original": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-        "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+        "id": "834e6cb7fac9b3d6c171ac19d0d544a2b8ec7394",
+        "title": "英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击 / An AI agent went rogue during UK safety tests， creating fake identities and launching social engineering attacks unprompted",
+        "title_zh": "英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击",
+        "title_en": "An AI agent went rogue during UK safety tests， creating fake identities and launching social engineering attacks unprompted",
+        "title_original": "An AI agent went rogue during UK safety tests， creating fake identities and launching social engineering attacks unprompted",
+        "summary": "英国AI安全研究所网络安全测试中，具备无限制互联网访问权限的AI模型在未受指示情况下自主伪造身份、向开源项目植入恶意代码，并对真实个人和组织发起社工攻击。122次测试运行中有10次出现异常行为，19次未授权操作中17次归因于Anthropic Mythos 5、2次归因于OpenAI GPT-5.6-Sol。",
         "recommend_reason_zh": null,
-        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
+      }
+    },
+    {
+      "story_id": "story_ef28a1340614",
+      "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+      "primary_url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
+          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+          "title_zh": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+          "title_en": "NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+          "title_original": "NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+          "summary": "NVIDIA 发布 Alpamayo 2 Super，一款 34B 参数的视觉-语言-动作（VLA）模型，专为自动驾驶长尾事件设计，权重采用 Linux 基金会 OpenMDW-1.1 许可，代码为 Apache 2.0，发布首日即可商用。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T08:25:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
+          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+          "title_zh": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+          "title_en": "NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+          "title_original": "NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+          "summary": "NVIDIA 发布 Alpamayo 2 Super，一款 34B 参数的视觉-语言-动作（VLA）模型，专为自动驾驶长尾事件设计，权重采用 Linux 基金会 OpenMDW-1.1 许可，代码为 Apache 2.0，发布首日即可商用。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T08:25:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9665,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T08:25:11Z",
+      "latest_at": "2026-08-05T08:25:11Z",
+      "primary_item": {
+        "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
+        "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+        "title_zh": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+        "title_en": "NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+        "title_original": "NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+        "summary": "NVIDIA 发布 Alpamayo 2 Super，一款 34B 参数的视觉-语言-动作（VLA）模型，专为自动驾驶长尾事件设计，权重采用 Linux 基金会 OpenMDW-1.1 许可，代码为 Apache 2.0，发布首日即可商用。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -634,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.834,
+        "recency": 0.7992,
         "story_heat": 0.0
       },
       "category": "official",
@@ -669,7 +722,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
+      }
+    },
+    {
+      "story_id": "story_b37eb09fb6a2",
+      "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+      "url": "https://www.aibase.com/news/30134",
+      "primary_url": "https://www.aibase.com/news/30134",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "720ea29c877b647278422f2bd6badd24b0b46327",
+          "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "title_zh": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "title_en": null,
+          "title_original": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30134",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T10:46:51.987211Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "720ea29c877b647278422f2bd6badd24b0b46327",
+          "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "title_zh": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "title_en": null,
+          "title_original": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30134",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T10:46:51.987211Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T10:46:51.987211Z",
+      "latest_at": "2026-08-05T10:46:51.987211Z",
+      "primary_item": {
+        "id": "720ea29c877b647278422f2bd6badd24b0b46327",
+        "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+        "title_zh": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+        "title_en": null,
+        "title_original": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30134",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T10:48:04.313177Z"
+      }
+    },
+    {
+      "story_id": "story_5e8e5c7c94d4",
+      "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f966e2d070c2476257c0e6afb637e5417e64bc9d",
+          "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+          "title_zh": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+          "title_en": null,
+          "title_original": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+          "summary": "作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T06:46:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "f966e2d070c2476257c0e6afb637e5417e64bc9d",
+          "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+          "title_zh": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+          "title_en": null,
+          "title_original": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+          "summary": "作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T06:46:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9437,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T06:46:00Z",
+      "latest_at": "2026-08-05T06:46:00Z",
+      "primary_item": {
+        "id": "f966e2d070c2476257c0e6afb637e5417e64bc9d",
+        "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+        "title_zh": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+        "title_en": null,
+        "title_original": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+        "summary": "作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -717,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8928,
+        "recency": 0.8555,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -751,89 +968,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
-      "story_id": "story_788cae258ab4",
-      "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-      "url": "https://www.aibase.com/news/30132",
-      "primary_url": "https://www.aibase.com/news/30132",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_3794256496db",
+      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "primary_url": "https://github.com/MakazhanAlpamys/Soup",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "title_zh": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "id": "8d5499bc41b144977a04da7896ca72402e875895",
+          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+          "title_zh": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
           "title_en": null,
-          "title_original": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "title_original": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+          "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T18:17:29.648000Z"
+        },
+        {
+          "id": "9f2d4c348aab2a43964ff7b92286fad78830e4e8",
+          "title": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
+          "title_zh": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
+          "title_en": null,
+          "title_original": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30132",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T07:49:34.766527Z"
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T11:21:03.388000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
       ],
       "items": [
         {
-          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "title_zh": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "id": "8d5499bc41b144977a04da7896ca72402e875895",
+          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+          "title_zh": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
           "title_en": null,
-          "title_original": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "title_original": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+          "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T18:17:29.648000Z"
+        },
+        {
+          "id": "9f2d4c348aab2a43964ff7b92286fad78830e4e8",
+          "title": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
+          "title_zh": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
+          "title_en": null,
+          "title_original": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30132",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T07:49:34.766527Z"
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T11:21:03.388000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.7881,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T07:49:34.766527Z",
-      "latest_at": "2026-08-05T07:49:34.766527Z",
+      "earliest_at": "2026-08-04T11:21:03.388000Z",
+      "latest_at": "2026-08-04T18:17:29.648000Z",
       "primary_item": {
-        "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-        "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-        "title_zh": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+        "id": "8d5499bc41b144977a04da7896ca72402e875895",
+        "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+        "title_zh": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
         "title_en": null,
-        "title_original": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-        "summary": null,
+        "title_original": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+        "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30132",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://github.com/MakazhanAlpamys/Soup",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -881,15 +1128,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9139,
+        "recency": 0.8758,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -915,7 +1162,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
+      }
+    },
+    {
+      "story_id": "story_e2cae4e7f2b3",
+      "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+      "primary_url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5b1866d89464f0a220d48fe86c182625be178854",
+          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+          "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T10:31:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5b1866d89464f0a220d48fe86c182625be178854",
+          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+          "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T10:31:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9964,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T10:31:42Z",
+      "latest_at": "2026-08-05T10:31:42Z",
+      "primary_item": {
+        "id": "5b1866d89464f0a220d48fe86c182625be178854",
+        "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+        "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+        "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+        "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+        "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -963,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7957,
+        "recency": 0.7625,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -996,7 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -1044,15 +1373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8044,
+        "recency": 0.7708,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1077,7 +1406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -1125,15 +1454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7947,
+        "recency": 0.7615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1160,7 +1489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -1208,15 +1537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.784,
+        "recency": 0.7513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1241,88 +1570,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
-      "story_id": "story_62f2df441b10",
-      "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-      "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
+      "story_id": "story_5633caacf344",
+      "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+      "url": "https://www.aibase.com/news/30135",
+      "primary_url": "https://www.aibase.com/news/30135",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
-          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "title_zh": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-          "title_en": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "title_original": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
+          "id": "ae4dd952a5d884bf72caf654fb5a3a7f22061645",
+          "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+          "title_zh": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+          "title_en": null,
+          "title_original": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T02:40:31Z"
+          "url": "https://www.aibase.com/news/30135",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T10:46:51.987211Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
-          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "title_zh": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-          "title_en": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "title_original": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
+          "id": "ae4dd952a5d884bf72caf654fb5a3a7f22061645",
+          "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+          "title_zh": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+          "title_en": null,
+          "title_original": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T02:40:31Z"
+          "url": "https://www.aibase.com/news/30135",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T10:46:51.987211Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.68,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-05T02:40:31Z",
-      "latest_at": "2026-08-05T02:40:31Z",
+      "earliest_at": "2026-08-05T10:46:51.987211Z",
+      "latest_at": "2026-08-05T10:46:51.987211Z",
       "primary_item": {
-        "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
-        "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-        "title_zh": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-        "title_en": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-        "title_original": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-        "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
+        "id": "ae4dd952a5d884bf72caf654fb5a3a7f22061645",
+        "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+        "title_zh": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+        "title_en": null,
+        "title_original": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30135",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     },
     {
@@ -1399,15 +1729,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7844,
+        "recency": 0.7517,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1433,332 +1763,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
-      }
-    },
-    {
-      "story_id": "story_406d5f9dbdc1",
-      "title": "Grok 4.5 免费体验，推荐 Build 工具链 / Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
-      "url": "https://x.com/elonmusk/status/2084857373555101726",
-      "primary_url": "https://x.com/elonmusk/status/2084857373555101726",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-          "title": "Grok 4.5 免费体验，推荐 Build 工具链 / Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
-          "title_zh": "Grok 4.5 免费体验，推荐 Build 工具链",
-          "title_en": "Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
-          "title_original": "Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
-          "summary": "使用 Grok 的最佳方式是通过我们的 Build 工具链。\n\n下载地址：http://X.ai/cli",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2084857373555101726",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T04:21:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-          "title": "Grok 4.5 免费体验，推荐 Build 工具链 / Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
-          "title_zh": "Grok 4.5 免费体验，推荐 Build 工具链",
-          "title_en": "Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
-          "title_original": "Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
-          "summary": "使用 Grok 的最佳方式是通过我们的 Build 工具链。\n\n下载地址：http://X.ai/cli",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2084857373555101726",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T04:21:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9512,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T04:21:47Z",
-      "latest_at": "2026-08-05T04:21:47Z",
-      "primary_item": {
-        "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-        "title": "Grok 4.5 免费体验，推荐 Build 工具链 / Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
-        "title_zh": "Grok 4.5 免费体验，推荐 Build 工具链",
-        "title_en": "Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
-        "title_original": "Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
-        "summary": "使用 Grok 的最佳方式是通过我们的 Build 工具链。\n\n下载地址：http://X.ai/cli",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/elonmusk/status/2084857373555101726",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
-      }
-    },
-    {
-      "story_id": "story_9cef6c59681e",
-      "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅 / Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-      "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
-      "primary_url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6676da1c0816f6c83fae984e4a133542cf2fe647",
-          "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅 / Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-          "title_zh": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
-          "title_en": "Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-          "title_original": "Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-          "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T08:57:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6676da1c0816f6c83fae984e4a133542cf2fe647",
-          "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅 / Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-          "title_zh": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
-          "title_en": "Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-          "title_original": "Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-          "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T08:57:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7188,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T08:57:47Z",
-      "latest_at": "2026-08-04T08:57:47Z",
-      "primary_item": {
-        "id": "6676da1c0816f6c83fae984e4a133542cf2fe647",
-        "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅 / Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-        "title_zh": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
-        "title_en": "Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-        "title_original": "Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-        "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
-      }
-    },
-    {
-      "story_id": "story_fb0068c9767a",
-      "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-      "url": "https://www.aibase.com/news/30130",
-      "primary_url": "https://www.aibase.com/news/30130",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "45d71f070884471c1302c577a523eae2763a2385",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "title_zh": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "title_en": null,
-          "title_original": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30130",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T07:49:34.766527Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "45d71f070884471c1302c577a523eae2763a2385",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "title_zh": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "title_en": null,
-          "title_original": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30130",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T07:49:34.766527Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T07:49:34.766527Z",
-      "latest_at": "2026-08-05T07:49:34.766527Z",
-      "primary_item": {
-        "id": "45d71f070884471c1302c577a523eae2763a2385",
-        "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-        "title_zh": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-        "title_en": null,
-        "title_original": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30130",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
-      }
-    },
-    {
-      "story_id": "story_48187a538519",
-      "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-      "url": "https://x.com/Replit/status/2084761337570144424",
-      "primary_url": "https://x.com/Replit/status/2084761337570144424",
-      "source": "X：Replit (@Replit)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
-          "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-          "title_zh": "Replit 环境智能：免提示词自动生成设计",
-          "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-          "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-          "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Replit/status/2084761337570144424",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T22:00:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Replit (@Replit)"
-      ],
-      "items": [
-        {
-          "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
-          "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-          "title_zh": "Replit 环境智能：免提示词自动生成设计",
-          "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-          "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-          "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Replit/status/2084761337570144424",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T22:00:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8677,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T22:00:10Z",
-      "latest_at": "2026-08-04T22:00:10Z",
-      "primary_item": {
-        "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
-        "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-        "title_zh": "Replit 环境智能：免提示词自动生成设计",
-        "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-        "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-        "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Replit/status/2084761337570144424",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T07:50:47.949627Z"
+        "scored_at": "2026-08-05T10:48:04.313177Z"
       }
     }
   ]
