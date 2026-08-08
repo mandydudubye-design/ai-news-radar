@@ -1,119 +1,233 @@
 {
-  "generated_at": "2026-08-08T14:49:58.430340Z",
+  "generated_at": "2026-08-08T15:46:32.209121Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_a76b3d3cb89d",
-      "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "primary_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_adfff91a73dc",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
-          "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
-          "title_zh": "应对关键网络能力的下一个前沿领域",
-          "title_en": "Responding to the next frontier of critical cyber capabilities",
-          "title_original": "Responding to the next frontier of critical cyber capabilities",
-          "summary": null,
+          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": null,
+          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:20:00Z"
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "3db804f194a1d5367a65288097f89e5f7cec1bb6",
-          "title": "应对关键网络能力的下一个前沿领域",
-          "title_zh": "应对关键网络能力的下一个前沿领域",
-          "title_en": null,
-          "title_original": "应对关键网络能力的下一个前沿领域",
+          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
+          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 对 Hugging Face 的意外攻击的时间线",
+          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "openai.com",
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T15:20:44.196000Z"
+        },
+        {
+          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "title_en": null,
+          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "simonwillison.net",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-07T19:58:36.823000Z"
+          "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T12:50:28.307000Z"
+        },
+        {
+          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T10:57:44Z"
+        },
+        {
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T10:57:44Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 6,
       "source_names": [
-        "OpenAI News",
-        "openai.com"
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "simonwillison.net"
       ],
       "items": [
         {
-          "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
-          "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
-          "title_zh": "应对关键网络能力的下一个前沿领域",
-          "title_en": "Responding to the next frontier of critical cyber capabilities",
-          "title_original": "Responding to the next frontier of critical cyber capabilities",
-          "summary": null,
+          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": null,
+          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:20:00Z"
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "3db804f194a1d5367a65288097f89e5f7cec1bb6",
-          "title": "应对关键网络能力的下一个前沿领域",
-          "title_zh": "应对关键网络能力的下一个前沿领域",
-          "title_en": null,
-          "title_original": "应对关键网络能力的下一个前沿领域",
+          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
+          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 对 Hugging Face 的意外攻击的时间线",
+          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "openai.com",
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T15:20:44.196000Z"
+        },
+        {
+          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "title_en": null,
+          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "simonwillison.net",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-07T19:58:36.823000Z"
+          "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T12:50:28.307000Z"
+        },
+        {
+          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T10:57:44Z"
+        },
+        {
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T10:57:44Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
-      "importance_label": "官方更新",
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.8977,
+      "importance": 0.8977,
+      "importance_score": 0.8977,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7122,
-        "story_heat": 0.25
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9838,
+        "story_heat": 1.0
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T15:20:00Z",
-      "latest_at": "2026-08-07T19:58:36.823000Z",
+      "earliest_at": "2026-08-08T10:57:44Z",
+      "latest_at": "2026-08-08T15:20:44.196000Z",
       "primary_item": {
-        "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
-        "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
-        "title_zh": "应对关键网络能力的下一个前沿领域",
-        "title_en": "Responding to the next frontier of critical cyber capabilities",
-        "title_original": "Responding to the next frontier of critical cyber capabilities",
-        "summary": null,
+        "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "title_en": null,
+        "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -161,15 +275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7987,
+        "recency": 0.7879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +310,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -244,15 +358,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.739,
+        "recency": 0.7291,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +393,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -356,15 +470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9697,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -391,7 +505,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -439,15 +553,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.774,
+        "recency": 0.7635,
         "story_heat": 0.0
       },
       "category": "official",
@@ -474,7 +588,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -522,15 +636,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.761,
+        "recency": 0.7507,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +670,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -604,15 +718,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9475,
+        "recency": 0.9347,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -638,7 +752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -686,15 +800,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.771,
+        "recency": 0.7606,
         "story_heat": 0.0
       },
       "category": "official",
@@ -721,88 +835,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
-      }
-    },
-    {
-      "story_id": "story_f60b263d7545",
-      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-      "url": "https://blog.cloudflare.com/kitesurf",
-      "primary_url": "https://blog.cloudflare.com/kitesurf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_en": null,
-          "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34.746000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_en": null,
-          "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34.746000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T18:54:34.746000Z",
-      "latest_at": "2026-08-07T18:54:34.746000Z",
-      "primary_item": {
-        "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "title_en": null,
-        "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.cloudflare.com/kitesurf",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -850,15 +883,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9115,
+        "recency": 0.8992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -884,7 +917,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -932,15 +965,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7387,
+        "recency": 0.7287,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -965,7 +998,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -1013,15 +1046,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7497,
+        "recency": 0.7395,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1046,7 +1079,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -1094,15 +1127,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7439,
+        "recency": 0.7339,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1129,7 +1162,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
+      }
+    },
+    {
+      "story_id": "story_f60b263d7545",
+      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+      "url": "https://blog.cloudflare.com/kitesurf",
+      "primary_url": "https://blog.cloudflare.com/kitesurf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "title_en": null,
+          "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T18:54:34.746000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "title_en": null,
+          "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T18:54:34.746000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7398,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T18:54:34.746000Z",
+      "latest_at": "2026-08-07T18:54:34.746000Z",
+      "primary_item": {
+        "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
+        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+        "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+        "title_en": null,
+        "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+        "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+        "recommend_reason_zh": null,
+        "url": "https://blog.cloudflare.com/kitesurf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -1177,15 +1291,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7973,
+        "recency": 0.7865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1210,7 +1324,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -1258,15 +1372,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7805,
+        "recency": 0.7699,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1293,90 +1407,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
-      }
-    },
-    {
-      "story_id": "story_a3f464009da9",
-      "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7101,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T15:07:25Z",
-      "latest_at": "2026-08-07T15:07:25Z",
-      "primary_item": {
-        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-        "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -1424,15 +1455,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7946,
+      "importance": 0.7946,
+      "importance_score": 0.7946,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7354,
+        "recency": 0.7255,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1459,175 +1490,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
-      "story_id": "story_adfff91a73dc",
-      "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "source": "simonwillison.net",
-      "source_name": "Buzzing",
+      "story_id": "story_cba5eebd8637",
+      "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": null,
-          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+          "title_zh": "秘密扫描覆盖范围更新",
+          "title_en": "Secret scanning coverage updates",
+          "title_original": "Secret scanning coverage updates",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "simonwillison.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T14:38:40.439000Z"
-        },
-        {
-          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T12:50:28.307000Z"
-        },
-        {
-          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T10:57:44Z"
-        },
-        {
-          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T10:57:44Z"
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "simonwillison.net"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": null,
-          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+          "title_zh": "秘密扫描覆盖范围更新",
+          "title_en": "Secret scanning coverage updates",
+          "title_original": "Secret scanning coverage updates",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "simonwillison.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T14:38:40.439000Z"
-        },
-        {
-          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T12:50:28.307000Z"
-        },
-        {
-          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T10:57:44Z"
-        },
-        {
-          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T10:57:44Z"
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5953,
-      "importance": 0.5953,
-      "importance_score": 0.5953,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9973,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7188,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-08T10:57:44Z",
-      "latest_at": "2026-08-08T14:38:40.439000Z",
+      "earliest_at": "2026-08-07T16:54:47Z",
+      "latest_at": "2026-08-07T16:54:47Z",
       "primary_item": {
-        "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
-        "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-        "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-        "title_en": null,
-        "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+        "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+        "title_zh": "秘密扫描覆盖范围更新",
+        "title_en": "Secret scanning coverage updates",
+        "title_original": "Secret scanning coverage updates",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-        "source": "simonwillison.net",
-        "source_name": "Buzzing"
+        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
@@ -1790,15 +1736,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5912,
-      "importance": 0.5912,
-      "importance_score": 0.5912,
+      "score": 0.5891,
+      "importance": 0.5891,
+      "importance_score": 0.5891,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8353,
+        "recency": 0.824,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1823,90 +1769,225 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     },
     {
-      "story_id": "story_cba5eebd8637",
-      "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_619c631f8dd4",
+      "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "title_zh": "秘密扫描覆盖范围更新",
-          "title_en": "Secret scanning coverage updates",
-          "title_original": "Secret scanning coverage updates",
+          "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
+          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+          "title_zh": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
+          "title_en": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+          "title_original": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-07T18:40:34Z"
+        },
+        {
+          "id": "f11ba5ec225d341c8d4856109d2806c7968aa821",
+          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+          "title_zh": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
+          "title_en": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+          "title_original": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T18:40:34Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "title_zh": "秘密扫描覆盖范围更新",
-          "title_en": "Secret scanning coverage updates",
-          "title_original": "Secret scanning coverage updates",
+          "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
+          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+          "title_zh": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
+          "title_en": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+          "title_original": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-07T18:40:34Z"
+        },
+        {
+          "id": "f11ba5ec225d341c8d4856109d2806c7968aa821",
+          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+          "title_zh": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
+          "title_en": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+          "title_original": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T18:40:34Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5807,
+      "importance": 0.5807,
+      "importance_score": 0.5807,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7287,
-        "story_heat": 0.0
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.7374,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-07T16:54:47Z",
-      "latest_at": "2026-08-07T16:54:47Z",
+      "earliest_at": "2026-08-07T18:40:34Z",
+      "latest_at": "2026-08-07T18:40:34Z",
       "primary_item": {
-        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-        "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-        "title_zh": "秘密扫描覆盖范围更新",
-        "title_en": "Secret scanning coverage updates",
-        "title_original": "Secret scanning coverage updates",
+        "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
+        "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+        "title_zh": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
+        "title_en": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+        "title_original": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T14:51:04.444675Z"
+        "scored_at": "2026-08-08T15:47:38.431046Z"
+      }
+    },
+    {
+      "story_id": "story_3ef0c31ab0a3",
+      "title": "谷歌人工智能变革背后的原因是什么 / What&#8217;s behind the Google AI shake-up",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "primary_url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "3038fdfbbaf89b425b9cf2329d5b404b6ae46ac5",
+          "title": "谷歌人工智能变革背后的原因是什么 / What&#8217;s behind the Google AI shake-up",
+          "title_zh": "谷歌人工智能变革背后的原因是什么",
+          "title_en": "What&#8217;s behind the Google AI shake-up",
+          "title_original": "What&#8217;s behind the Google AI shake-up",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-07T16:45:14Z"
+        },
+        {
+          "id": "619cf3c62797e069e948c45eff8fdd908e0c9ce0",
+          "title": "谷歌人工智能变革背后的原因是什么 / What’s behind the Google AI shake-up",
+          "title_zh": "谷歌人工智能变革背后的原因是什么",
+          "title_en": "What’s behind the Google AI shake-up",
+          "title_original": "What’s behind the Google AI shake-up",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T16:45:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "3038fdfbbaf89b425b9cf2329d5b404b6ae46ac5",
+          "title": "谷歌人工智能变革背后的原因是什么 / What&#8217;s behind the Google AI shake-up",
+          "title_zh": "谷歌人工智能变革背后的原因是什么",
+          "title_en": "What&#8217;s behind the Google AI shake-up",
+          "title_original": "What&#8217;s behind the Google AI shake-up",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-07T16:45:14Z"
+        },
+        {
+          "id": "619cf3c62797e069e948c45eff8fdd908e0c9ce0",
+          "title": "谷歌人工智能变革背后的原因是什么 / What’s behind the Google AI shake-up",
+          "title_zh": "谷歌人工智能变革背后的原因是什么",
+          "title_en": "What’s behind the Google AI shake-up",
+          "title_original": "What’s behind the Google AI shake-up",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T16:45:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5646,
+      "importance": 0.5646,
+      "importance_score": 0.5646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.7172,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-07T16:45:14Z",
+      "latest_at": "2026-08-07T16:45:14Z",
+      "primary_item": {
+        "id": "3038fdfbbaf89b425b9cf2329d5b404b6ae46ac5",
+        "title": "谷歌人工智能变革背后的原因是什么 / What&#8217;s behind the Google AI shake-up",
+        "title_zh": "谷歌人工智能变革背后的原因是什么",
+        "title_en": "What&#8217;s behind the Google AI shake-up",
+        "title_original": "What&#8217;s behind the Google AI shake-up",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-08T15:47:38.431046Z"
       }
     }
   ]
