@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T09:57:04.033974Z",
+  "generated_at": "2026-08-09T10:52:58.862306Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_adfff91a73dc",
@@ -192,15 +192,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8568,
-      "importance": 0.8568,
-      "importance_score": 0.8568,
+      "score": 0.855,
+      "importance": 0.855,
+      "importance_score": 0.855,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7567,
+        "recency": 0.7466,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -227,7 +227,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7458,
+        "recency": 0.7359,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -339,7 +339,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
+      }
+    },
+    {
+      "story_id": "story_89f0f7e97237",
+      "title": "Seedance 2.5 上线一周新增六种创意玩法",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
+          "title": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_en": null,
+          "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
+          "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T05:25:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
+          "title": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
+          "title_en": null,
+          "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
+          "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T05:25:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9241,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T05:25:02Z",
+      "latest_at": "2026-08-09T05:25:02Z",
+      "primary_item": {
+        "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
+        "title": "Seedance 2.5 上线一周新增六种创意玩法",
+        "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
+        "title_en": null,
+        "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
+        "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     },
     {
@@ -387,15 +469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -421,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     },
     {
@@ -469,21 +551,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9112,
+        "recency": 0.899,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-09T03:30:30Z",
       "latest_at": "2026-08-09T03:30:30Z",
@@ -503,7 +584,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     },
     {
@@ -551,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7189,
+        "recency": 0.7093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,7 +665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     },
     {
@@ -632,21 +713,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9099,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-09T03:24:44Z",
       "latest_at": "2026-08-09T03:24:44Z",
@@ -666,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     },
     {
@@ -714,15 +794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8509,
+        "recency": 0.8395,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     },
     {
@@ -853,15 +933,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5617,
-      "importance": 0.5617,
-      "importance_score": 0.5617,
+      "score": 0.5595,
+      "importance": 0.5595,
+      "importance_score": 0.5595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9497,
+        "recency": 0.937,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -886,7 +966,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
+      }
+    },
+    {
+      "story_id": "story_86c94d047e72",
+      "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "url": "https://news.ycombinator.com/item?id=49229412",
+      "primary_url": "https://news.ycombinator.com/item?id=49229412",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
+          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49229412",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T10:36:36.830000Z"
+        },
+        {
+          "id": "b7faa4fa62e135ffe27e5c6116dd2b8006a9ccfd",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
+          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T08:00:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
+          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49229412",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T10:36:36.830000Z"
+        },
+        {
+          "id": "b7faa4fa62e135ffe27e5c6116dd2b8006a9ccfd",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
+          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T08:00:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9961,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T08:00:51Z",
+      "latest_at": "2026-08-09T10:36:36.830000Z",
+      "primary_item": {
+        "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+        "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
+        "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49229412",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     },
     {
@@ -992,15 +1182,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.811,
+        "recency": 0.8002,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1025,117 +1215,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
-      }
-    },
-    {
-      "story_id": "story_c679b82f6543",
-      "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-      "url": "https://news.ycombinator.com/item?id=49228086",
-      "primary_url": "https://news.ycombinator.com/item?id=49228086",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49228086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T05:35:58.834000Z"
-        },
-        {
-          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://marketnow.site",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T03:13:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49228086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T05:35:58.834000Z"
-        },
-        {
-          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
-          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://marketnow.site",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T03:13:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9391,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T03:13:01Z",
-      "latest_at": "2026-08-09T05:35:58.834000Z",
-      "primary_item": {
-        "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-        "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-        "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
-        "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-        "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49228086",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     },
     {
@@ -1241,15 +1321,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7956,
+        "recency": 0.7849,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1274,7 +1354,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
+      }
+    },
+    {
+      "story_id": "story_c679b82f6543",
+      "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://news.ycombinator.com/item?id=49228086",
+      "primary_url": "https://news.ycombinator.com/item?id=49228086",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
+          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
+          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49228086",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T05:35:58.834000Z"
+        },
+        {
+          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
+          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
+          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://marketnow.site",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T03:13:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
+          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
+          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49228086",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T05:35:58.834000Z"
+        },
+        {
+          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
+          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
+          "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://marketnow.site",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T03:13:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9265,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T03:13:01Z",
+      "latest_at": "2026-08-09T05:35:58.834000Z",
+      "primary_item": {
+        "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
+        "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+        "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
+        "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+        "title_original": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49228086",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     },
     {
@@ -1351,15 +1541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.926,
+        "recency": 0.9136,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1384,7 +1574,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     },
     {
@@ -1461,15 +1651,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4985,
-      "importance": 0.4985,
-      "importance_score": 0.4985,
+      "score": 0.4967,
+      "importance": 0.4967,
+      "importance_score": 0.4967,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7372,
+        "recency": 0.7274,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1494,7 +1684,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T09:58:03.047104Z"
+        "scored_at": "2026-08-09T10:53:52.037420Z"
       }
     }
   ]
