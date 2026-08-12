@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T23:02:00.579167Z",
+  "generated_at": "2026-08-12T23:58:14.698383Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 176,
-      "duration_ms": 2245,
+      "duration_ms": 2956,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Curated Media",
       "ok": true,
       "item_count": 40,
-      "duration_ms": 2646,
+      "duration_ms": 3500,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 62,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 36,
-      "duration_ms": 32,
+      "duration_ms": 46,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 458,
+      "duration_ms": 478,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 314,
+      "duration_ms": 392,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1082,
+      "duration_ms": 1074,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 666,
+      "duration_ms": 1835,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 80,
-      "duration_ms": 414,
+      "duration_ms": 458,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "Hacker News",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 6435,
+      "duration_ms": 6410,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 28,
-      "duration_ms": 352,
+      "duration_ms": 413,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1663,
+      "duration_ms": 1864,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 113,
-      "duration_ms": 775,
+      "duration_ms": 1628,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 127,
-      "duration_ms": 1124,
+      "duration_ms": 1583,
       "error": null
     },
     {
@@ -118,21 +118,21 @@
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 7321,
+      "duration_ms": 5701,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 7,
-      "item_count": 80,
-      "duration_ms": 55902,
-      "error": "7 feeds failed",
+      "partial_failures": 4,
+      "item_count": 111,
+      "duration_ms": 23614,
+      "error": "4 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
-      "ok_feed_count": 3,
-      "failed_feed_count": 7,
+      "ok_feed_count": 6,
+      "failed_feed_count": 4,
       "skipped_feed_count": 0,
       "replaced_feed_count": 0
     }
@@ -145,22 +145,19 @@
     "hackernews"
   ],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 1212,
-  "items_before_topic_filter": 1645,
-  "items_in_24h": 338,
+  "fetched_raw_items": 1243,
+  "items_before_topic_filter": 1661,
+  "items_in_24h": 340,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
     "feed_total": 10,
     "effective_feed_total": 10,
-    "ok_feeds": 3,
+    "ok_feeds": 6,
     "failed_feeds": [
       "https://ai.meta.com/blog/rss.xml",
       "https://mistral.ai/feed/",
       "https://x.ai/blog/feed",
-      "https://rsshub.rssforever.com/wechat/sogou/%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83",
-      "https://rsshub.rssforever.com/sspai/matrix",
-      "https://rsshub.rssforever.com/zhihu/daily",
       "https://rsshub.rssforever.com/zhihu/hot"
     ],
     "zero_item_feeds": [
@@ -177,7 +174,7 @@
         "effective_feed_url": "https://36kr.com/feed",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 1158,
+        "duration_ms": 1024,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -192,7 +189,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/36kr/newsflashes",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 891,
+        "duration_ms": 1706,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -207,7 +204,7 @@
         "effective_feed_url": "https://www.ithome.com/rss/",
         "ok": true,
         "item_count": 60,
-        "duration_ms": 1859,
+        "duration_ms": 1654,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -222,7 +219,7 @@
         "effective_feed_url": "https://ai.meta.com/blog/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 322,
+        "duration_ms": 496,
         "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -237,7 +234,7 @@
         "effective_feed_url": "https://mistral.ai/feed/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 318,
+        "duration_ms": 751,
         "error": "404 Client Error: Not Found for url: https://mistral.ai/feed/",
         "skipped": false,
         "skip_reason": null,
@@ -252,7 +249,7 @@
         "effective_feed_url": "https://x.ai/blog/feed",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 122,
+        "duration_ms": 215,
         "error": "404 Client Error: Not Found for url: https://x.ai/news/feed",
         "skipped": false,
         "skip_reason": null,
@@ -265,10 +262,10 @@
         "feed_title": "公众号·机器之心",
         "feed_url": "https://rsshub.rssforever.com/wechat/sogou/%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83",
         "effective_feed_url": "https://rsshub.rssforever.com/wechat/sogou/%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12809,
-        "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 8280,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -280,10 +277,10 @@
         "feed_title": "少数派 Matrix",
         "feed_url": "https://rsshub.rssforever.com/sspai/matrix",
         "effective_feed_url": "https://rsshub.rssforever.com/sspai/matrix",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12810,
-        "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
+        "ok": true,
+        "item_count": 20,
+        "duration_ms": 7213,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -295,10 +292,10 @@
         "feed_title": "知乎日报",
         "feed_url": "https://rsshub.rssforever.com/zhihu/daily",
         "effective_feed_url": "https://rsshub.rssforever.com/zhihu/daily",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12811,
-        "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
+        "ok": true,
+        "item_count": 1,
+        "duration_ms": 1340,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -312,8 +309,8 @@
         "effective_feed_url": "https://rsshub.rssforever.com/zhihu/hot",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12802,
-        "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
+        "duration_ms": 935,
+        "error": "503 Server Error: Service Unavailable for url: https://rsshub.rssforever.com/zhihu/hot",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
