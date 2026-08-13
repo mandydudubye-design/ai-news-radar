@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-08-12T23:58:14.698383Z",
+  "generated_at": "2026-08-13T02:47:50.677944Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 27,
+  "total_events": 26,
   "events": [
     {
-      "story_id": "story_49365c8a72d6",
-      "item_id": "ccd39c0c5d6e3430ab3dd3919f7083c28a3db0ce",
-      "merged_into": "story_49365c8a72d6",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_49365c8a72d6",
-      "item_id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
-      "merged_into": "story_49365c8a72d6",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_49365c8a72d6",
+      "story_id": "story_5a3ae58e0902",
       "item_id": "6902298efece3c7b675fccd584b5df9579576535",
-      "merged_into": "story_49365c8a72d6",
+      "merged_into": "story_5a3ae58e0902",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -95,16 +81,16 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_20899b598094",
-      "item_id": "9ebd5d4edc5c980f97c0dc3b672464292e0e5030",
-      "merged_into": "story_20899b598094",
+      "story_id": "story_f14a347e8228",
+      "item_id": "92dcf701651a59db61dd006d8cf8afe88c33e45b",
+      "merged_into": "story_f14a347e8228",
       "reason": "canonical_url",
       "similarity": 1.0
     },
     {
-      "story_id": "story_81b35863b7b0",
-      "item_id": "7131f9fe498fd654a322d9a1f159d798f8baa9d7",
-      "merged_into": "story_81b35863b7b0",
+      "story_id": "story_20899b598094",
+      "item_id": "9ebd5d4edc5c980f97c0dc3b672464292e0e5030",
+      "merged_into": "story_20899b598094",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -191,6 +177,13 @@
       "merged_into": "story_a35c497e8bfa",
       "reason": "title_similarity",
       "similarity": 0.8889
+    },
+    {
+      "story_id": "story_79eebbc3e6b6",
+      "item_id": "181d67ce43677cc2a3af32b396872f2feb2d3b6a",
+      "merged_into": "story_79eebbc3e6b6",
+      "reason": "title_similarity",
+      "similarity": 0.8986
     }
   ]
 }
