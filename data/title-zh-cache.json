@@ -21146,7 +21146,7 @@
   "Flycheck 38: Might & Magic": "Flycheck 38：魔法门",
   "The coolest use for the Vision Pro": "Vision Pro 最酷的用途",
   "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident": "前沿实验室特工入侵剖析：事件的技术时间表",
-  "Claude Is Down": "克劳德倒下了",
+  "Claude Is Down": "Claude倒下了",
   "OpenAI president admits new ChatGPT desktop app is 'kind of a mess,' teases tab-free design": "OpenAI 总裁承认新的 ChatGPT 桌面应用程序“有点混乱”，并嘲笑无标签设计",
   "Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine": "Claude Opus 5 在负责运行自动售货机时变得非常无情",
   "Meta’s Profit Falls 14 Percent as A.I. Spending Continues": "随着 A.I. 的出现，Meta 的利润下降了 14%支出仍在继续",
@@ -23641,5 +23641,11 @@
   "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
   "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测",
   "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
-  "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"": "Anthropic认为AI风险上升，暂无发布更强“Model 2”的计划"
+  "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"": "Anthropic认为AI风险上升，暂无发布更强“Model 2”的计划",
+  "Claude Seems Down": "Claude似乎情绪低落",
+  "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额",
+  "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing": "Claude中人类的“水印”文本掺假是对写作的歪曲",
+  "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信",
+  "Dario Amodei admits AI companies have not delivered on their promises": "达里奥·阿莫代 (Dario Amodei) 承认人工智能公司尚未兑现承诺",
+  "Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server": "Show HN：PyScrappy，自我修复网络抓取选择器以及 MCP 服务器"
 }
