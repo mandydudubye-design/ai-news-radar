@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:40:23.651145Z",
+  "generated_at": "2026-08-17T16:45:59.004226Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8634,
+        "recency": 0.8499,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
+      }
+    },
+    {
+      "story_id": "story_e8417ef9f36f",
+      "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
+          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
+          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.989,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T16:00:00Z",
+      "latest_at": "2026-08-17T16:00:00Z",
+      "primary_item": {
+        "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+        "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
+        "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -161,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8951,
+        "recency": 0.8811,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -244,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8572,
+        "recency": 0.8437,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -327,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9563,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -361,12 +444,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
       "story_id": "story_be56974e4c46",
-      "title": "https://x.com/i/article/2089330332369588224",
+      "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
       "url": "https://x.com/JensenHuang/status/2089331487342829862",
       "primary_url": "https://x.com/JensenHuang/status/2089331487342829862",
       "source": "X：Jensen Huang (@JensenHuang)",
@@ -374,8 +457,8 @@
       "sources": [
         {
           "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
-          "title": "https://x.com/i/article/2089330332369588224",
-          "title_zh": null,
+          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
+          "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
           "title_en": "https://x.com/i/article/2089330332369588224",
           "title_original": "https://x.com/i/article/2089330332369588224",
           "summary": null,
@@ -394,8 +477,8 @@
       "items": [
         {
           "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
-          "title": "https://x.com/i/article/2089330332369588224",
-          "title_zh": null,
+          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
+          "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
           "title_en": "https://x.com/i/article/2089330332369588224",
           "title_original": "https://x.com/i/article/2089330332369588224",
           "summary": null,
@@ -409,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9426,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -429,8 +512,8 @@
       "latest_at": "2026-08-17T12:40:19Z",
       "primary_item": {
         "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
-        "title": "https://x.com/i/article/2089330332369588224",
-        "title_zh": null,
+        "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
+        "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
         "title_en": "https://x.com/i/article/2089330332369588224",
         "title_original": "https://x.com/i/article/2089330332369588224",
         "summary": null,
@@ -443,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -491,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8358,
+        "recency": 0.8227,
         "story_heat": 0.0
       },
       "category": "official",
@@ -526,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -574,15 +657,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9542,
+        "recency": 0.9392,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -608,7 +691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -656,15 +739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.9176,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -738,15 +821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7749,
+        "recency": 0.7627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -771,7 +854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -819,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9209,
+        "recency": 0.9064,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -853,7 +936,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -901,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9209,
+        "recency": 0.9064,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,7 +1018,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -983,21 +1066,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9084,
+        "recency": 0.8942,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T09:01:25.113357Z",
       "latest_at": "2026-08-17T09:01:25.113357Z",
@@ -1017,7 +1099,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -1065,21 +1147,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9084,
+        "recency": 0.8942,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T09:01:25.113357Z",
       "latest_at": "2026-08-17T09:01:25.113357Z",
@@ -1099,7 +1180,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -1175,15 +1256,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6286,
-      "importance": 0.6286,
-      "importance_score": 0.6286,
+      "score": 0.6259,
+      "importance": 0.6259,
+      "importance_score": 0.6259,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9341,
+        "recency": 0.9195,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1208,7 +1289,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -1256,21 +1337,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9084,
+        "recency": 0.8942,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T09:01:25.113357Z",
       "latest_at": "2026-08-17T09:01:25.113357Z",
@@ -1290,7 +1370,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -1367,15 +1447,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5903,
-      "importance": 0.5903,
-      "importance_score": 0.5903,
+      "score": 0.5878,
+      "importance": 0.5878,
+      "importance_score": 0.5878,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8888,
+        "recency": 0.8748,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1400,7 +1480,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
+      }
+    },
+    {
+      "story_id": "story_a3e7db53d120",
+      "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "primary_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source": "www.wiz.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "38069cf1f4c337ff054f6b19307629efb3dfb33e",
+          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_en": null,
+          "title_original": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "www.wiz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T16:38:11.073000Z"
+        },
+        {
+          "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
+          "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_zh": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
+          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49331423",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T14:45:39.234000Z"
+        },
+        {
+          "id": "b36fe63b0c53572ac668e8f5df85aa4d37f82b31",
+          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T14:18:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.wiz.io"
+      ],
+      "items": [
+        {
+          "id": "38069cf1f4c337ff054f6b19307629efb3dfb33e",
+          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_en": null,
+          "title_original": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "www.wiz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T16:38:11.073000Z"
+        },
+        {
+          "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
+          "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_zh": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
+          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49331423",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T14:45:39.234000Z"
+        },
+        {
+          "id": "b36fe63b0c53572ac668e8f5df85aa4d37f82b31",
+          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T14:18:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5705,
+      "importance": 0.5705,
+      "importance_score": 0.5705,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9981,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T14:18:38Z",
+      "latest_at": "2026-08-17T16:38:11.073000Z",
+      "primary_item": {
+        "id": "38069cf1f4c337ff054f6b19307629efb3dfb33e",
+        "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+        "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+        "title_en": null,
+        "title_original": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "source": "www.wiz.io",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
@@ -1448,21 +1667,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9084,
+        "recency": 0.8942,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T09:01:25.113357Z",
       "latest_at": "2026-08-17T09:01:25.113357Z",
@@ -1482,248 +1700,138 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     },
     {
-      "story_id": "story_f75e3b4636ba",
-      "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "primary_url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "source": "blog.roboflow.com",
-      "source_name": "Buzzing",
+      "story_id": "story_4c94bc9d56c4",
+      "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://news.ycombinator.com/item?id=49330742",
+      "primary_url": "https://news.ycombinator.com/item?id=49330742",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
-          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "title_en": null,
-          "title_original": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "id": "65b4a7d63485ddbf1baf05958425c7cc90ddbd2e",
+          "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "blog.roboflow.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T14:29:55.280000Z"
-        },
-        {
-          "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
-          "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49329575",
+          "url": "https://news.ycombinator.com/item?id=49330742",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-17T13:40:22.397000Z"
+          "published_at": "2026-08-17T14:45:39.234000Z"
         },
         {
-          "id": "260409f5d7a18ebea1c93918e71ffbb13bc8865d",
-          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
+          "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
+          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T13:44:23Z"
+        },
+        {
+          "id": "46c43460c3f8ab1c4ffaaa1e0cd5b34d34efebfe",
+          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "title_zh": null,
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at",
+          "source": "Reddit (热门)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-17T12:09:42Z"
+          "published_at": "2026-08-17T13:19:25Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "blog.roboflow.com",
+        "Hacker News · 24h最热",
+        "Reddit (热门)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
-          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "title_en": null,
-          "title_original": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "id": "65b4a7d63485ddbf1baf05958425c7cc90ddbd2e",
+          "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "blog.roboflow.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T14:29:55.280000Z"
-        },
-        {
-          "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
-          "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49329575",
+          "url": "https://news.ycombinator.com/item?id=49330742",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-17T13:40:22.397000Z"
+          "published_at": "2026-08-17T14:45:39.234000Z"
         },
         {
-          "id": "260409f5d7a18ebea1c93918e71ffbb13bc8865d",
-          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
+          "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
+          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T13:44:23Z"
+        },
+        {
+          "id": "46c43460c3f8ab1c4ffaaa1e0cd5b34d34efebfe",
+          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "title_zh": null,
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at",
+          "source": "Reddit (热门)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-17T12:09:42Z"
+          "published_at": "2026-08-17T13:19:25Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5678,
-      "importance": 0.5678,
-      "importance_score": 0.5678,
+      "score": 0.5657,
+      "importance": 0.5657,
+      "importance_score": 0.5657,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9832,
+        "recency": 0.9715,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-17T12:09:42Z",
-      "latest_at": "2026-08-17T14:29:55.280000Z",
-      "primary_item": {
-        "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
-        "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-        "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-        "title_en": null,
-        "title_original": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.roboflow.com/openai-gpt-5-6",
-        "source": "blog.roboflow.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
-      }
-    },
-    {
-      "story_id": "story_a3e7db53d120",
-      "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-      "url": "https://news.ycombinator.com/item?id=49331423",
-      "primary_url": "https://news.ycombinator.com/item?id=49331423",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
-          "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "title_zh": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
-          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49331423",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T14:45:39.234000Z"
-        },
-        {
-          "id": "b36fe63b0c53572ac668e8f5df85aa4d37f82b31",
-          "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "title_zh": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
-          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T14:18:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
-          "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "title_zh": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
-          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49331423",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T14:45:39.234000Z"
-        },
-        {
-          "id": "b36fe63b0c53572ac668e8f5df85aa4d37f82b31",
-          "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "title_zh": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
-          "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T14:18:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9869,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T14:18:38Z",
+      "earliest_at": "2026-08-17T13:19:25Z",
       "latest_at": "2026-08-17T14:45:39.234000Z",
       "primary_item": {
-        "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
-        "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-        "title_zh": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
-        "title_en": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-        "title_original": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+        "id": "65b4a7d63485ddbf1baf05958425c7cc90ddbd2e",
+        "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
+        "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49331423",
+        "url": "https://news.ycombinator.com/item?id=49330742",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1731,89 +1839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
-      }
-    },
-    {
-      "story_id": "story_b60199de2cff",
-      "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-      "url": "https://www.aibase.com/news/30399",
-      "primary_url": "https://www.aibase.com/news/30399",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d373ff73aa86be48d7aaf5866b3a2ed77acf8943",
-          "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-          "title_zh": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-          "title_en": null,
-          "title_original": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30399",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T09:01:25.113357Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d373ff73aa86be48d7aaf5866b3a2ed77acf8943",
-          "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-          "title_zh": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-          "title_en": null,
-          "title_original": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30399",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T09:01:25.113357Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9084,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T09:01:25.113357Z",
-      "latest_at": "2026-08-17T09:01:25.113357Z",
-      "primary_item": {
-        "id": "d373ff73aa86be48d7aaf5866b3a2ed77acf8943",
-        "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-        "title_zh": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-        "title_en": null,
-        "title_original": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30399",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T15:41:29.152251Z"
+        "scored_at": "2026-08-17T16:47:01.937198Z"
       }
     }
   ]
