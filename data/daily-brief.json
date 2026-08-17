@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:57:50.361891Z",
+  "generated_at": "2026-08-17T10:48:40.966546Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.847,
-      "importance": 0.847,
-      "importance_score": 0.847,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.972,
+        "recency": 0.9602,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,30 +83,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
-      "story_id": "story_be3f625d8d7f",
-      "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-      "url": "https://www.aibase.com/news/30404",
-      "primary_url": "https://www.aibase.com/news/30404",
+      "story_id": "story_be6ad864c0ec",
+      "title": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
+      "url": "https://www.aibase.com/news/30406",
+      "primary_url": "https://www.aibase.com/news/30406",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
-          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "id": "49e96b46f61f7f8a428459964777fa06252fa7c7",
+          "title": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
+          "title_zh": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
           "title_en": null,
-          "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "title_original": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30404",
+          "url": "https://www.aibase.com/news/30406",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T09:57:50.361891Z"
+          "published_at": "2026-08-17T10:48:40.966546Z"
         }
       ],
       "source_count": 1,
@@ -115,18 +115,18 @@
       ],
       "items": [
         {
-          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
-          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "id": "49e96b46f61f7f8a428459964777fa06252fa7c7",
+          "title": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
+          "title_zh": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
           "title_en": null,
-          "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "title_original": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30404",
+          "url": "https://www.aibase.com/news/30406",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T09:57:50.361891Z"
+          "published_at": "2026-08-17T10:48:40.966546Z"
         }
       ],
       "item_count": 1,
@@ -147,17 +147,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T09:57:50.361891Z",
-      "latest_at": "2026-08-17T09:57:50.361891Z",
+      "earliest_at": "2026-08-17T10:48:40.966546Z",
+      "latest_at": "2026-08-17T10:48:40.966546Z",
       "primary_item": {
-        "id": "0c1c9688db4107d152c66877ded859c720f5a604",
-        "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-        "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+        "id": "49e96b46f61f7f8a428459964777fa06252fa7c7",
+        "title": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
+        "title_zh": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
         "title_en": null,
-        "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+        "title_original": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30404",
+        "url": "https://www.aibase.com/news/30406",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8415,
+        "recency": 0.8312,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +246,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
+      }
+    },
+    {
+      "story_id": "story_be3f625d8d7f",
+      "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+      "url": "https://www.aibase.com/news/30404",
+      "primary_url": "https://www.aibase.com/news/30404",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
+          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "title_en": null,
+          "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30404",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T09:57:50.361891Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
+          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "title_en": null,
+          "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30404",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T09:57:50.361891Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9878,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T09:57:50.361891Z",
+      "latest_at": "2026-08-17T09:57:50.361891Z",
+      "primary_item": {
+        "id": "0c1c9688db4107d152c66877ded859c720f5a604",
+        "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+        "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+        "title_en": null,
+        "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30404",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -294,15 +376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9878,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,88 +410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
-      }
-    },
-    {
-      "story_id": "story_8758de6d3ed7",
-      "title": "新兴多智能体系统的模式与问题",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-          "title": "新兴多智能体系统的模式与问题",
-          "title_zh": "新兴多智能体系统的模式与问题",
-          "title_en": null,
-          "title_original": "新兴多智能体系统的模式与问题",
-          "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-16T11:17:57.393000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-          "title": "新兴多智能体系统的模式与问题",
-          "title_zh": "新兴多智能体系统的模式与问题",
-          "title_en": null,
-          "title_original": "新兴多智能体系统的模式与问题",
-          "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-16T11:17:57.393000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7204,
-      "importance": 0.7204,
-      "importance_score": 0.7204,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7209,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-16T11:17:57.393000Z",
-      "latest_at": "2026-08-16T11:17:57.393000Z",
-      "primary_item": {
-        "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-        "title": "新兴多智能体系统的模式与问题",
-        "title_zh": "新兴多智能体系统的模式与问题",
-        "title_en": null,
-        "title_original": "新兴多智能体系统的模式与问题",
-        "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/multiagent-systems",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -457,15 +458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -491,7 +492,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -539,15 +540,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -573,7 +574,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -621,15 +622,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -655,89 +656,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
-      }
-    },
-    {
-      "story_id": "story_16a84261d17f",
-      "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-      "url": "https://www.aibase.com/news/30402",
-      "primary_url": "https://www.aibase.com/news/30402",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_en": null,
-          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30402",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T09:01:25.113357Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_en": null,
-          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30402",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T09:01:25.113357Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9865,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T09:01:25.113357Z",
-      "latest_at": "2026-08-17T09:01:25.113357Z",
-      "primary_item": {
-        "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-        "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "title_en": null,
-        "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30402",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -814,15 +733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6041,
-      "importance": 0.6041,
-      "importance_score": 0.6041,
+      "score": 0.602,
+      "importance": 0.602,
+      "importance_score": 0.602,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9651,
+        "recency": 0.9534,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -847,7 +766,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
+      }
+    },
+    {
+      "story_id": "story_16a84261d17f",
+      "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+      "url": "https://www.aibase.com/news/30402",
+      "primary_url": "https://www.aibase.com/news/30402",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
+          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "title_en": null,
+          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30402",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T09:01:25.113357Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
+          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "title_en": null,
+          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30402",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T09:01:25.113357Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9745,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T09:01:25.113357Z",
+      "latest_at": "2026-08-17T09:01:25.113357Z",
+      "primary_item": {
+        "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
+        "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+        "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+        "title_en": null,
+        "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30402",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -895,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -929,89 +930,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
-      }
-    },
-    {
-      "story_id": "story_a7c6ec1c87c8",
-      "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-      "url": "https://www.aibase.com/news/30396",
-      "primary_url": "https://www.aibase.com/news/30396",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9ec02707edd8b3abb65cfdacdc1c3e249dc0ee1a",
-          "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-          "title_zh": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-          "title_en": null,
-          "title_original": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30396",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T08:03:24.661347Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9ec02707edd8b3abb65cfdacdc1c3e249dc0ee1a",
-          "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-          "title_zh": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-          "title_en": null,
-          "title_original": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30396",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T08:03:24.661347Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9728,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T08:03:24.661347Z",
-      "latest_at": "2026-08-17T08:03:24.661347Z",
-      "primary_item": {
-        "id": "9ec02707edd8b3abb65cfdacdc1c3e249dc0ee1a",
-        "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-        "title_zh": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-        "title_en": null,
-        "title_original": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30396",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -1117,15 +1036,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8909,
+        "recency": 0.8801,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1150,7 +1069,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -1256,15 +1175,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5469,
-      "importance": 0.5469,
-      "importance_score": 0.5469,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8672,
+        "recency": 0.8567,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1289,7 +1208,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -1395,15 +1314,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8573,
+        "recency": 0.8468,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1428,7 +1347,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -1534,15 +1453,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8516,
+        "recency": 0.8413,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1567,7 +1486,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -1644,15 +1563,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9814,
+        "recency": 0.9695,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1677,7 +1596,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -1783,15 +1702,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7878,
+        "recency": 0.7782,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1816,7 +1735,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
@@ -1893,15 +1812,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9118,
+        "recency": 0.9007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1926,26 +1845,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     },
     {
-      "story_id": "story_a40740f5bec6",
-      "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-      "url": "https://www.aibase.com/news/30397",
-      "primary_url": "https://www.aibase.com/news/30397",
+      "story_id": "story_a7c6ec1c87c8",
+      "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
+      "url": "https://www.aibase.com/news/30396",
+      "primary_url": "https://www.aibase.com/news/30396",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ae71ee183b21119f28bb609babe8380b6adea5e1",
-          "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "title_zh": "谷歌AI大动作：图片视频水印终于可以去掉了！",
+          "id": "9ec02707edd8b3abb65cfdacdc1c3e249dc0ee1a",
+          "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
+          "title_zh": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
           "title_en": null,
-          "title_original": "谷歌AI大动作：图片视频水印终于可以去掉了！",
+          "title_original": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30397",
+          "url": "https://www.aibase.com/news/30396",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1958,14 +1877,14 @@
       ],
       "items": [
         {
-          "id": "ae71ee183b21119f28bb609babe8380b6adea5e1",
-          "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "title_zh": "谷歌AI大动作：图片视频水印终于可以去掉了！",
+          "id": "9ec02707edd8b3abb65cfdacdc1c3e249dc0ee1a",
+          "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
+          "title_zh": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
           "title_en": null,
-          "title_original": "谷歌AI大动作：图片视频水印终于可以去掉了！",
+          "title_original": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30397",
+          "url": "https://www.aibase.com/news/30396",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1974,15 +1893,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9728,
+        "recency": 0.961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1993,14 +1912,14 @@
       "earliest_at": "2026-08-17T08:03:24.661347Z",
       "latest_at": "2026-08-17T08:03:24.661347Z",
       "primary_item": {
-        "id": "ae71ee183b21119f28bb609babe8380b6adea5e1",
-        "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-        "title_zh": "谷歌AI大动作：图片视频水印终于可以去掉了！",
+        "id": "9ec02707edd8b3abb65cfdacdc1c3e249dc0ee1a",
+        "title": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
+        "title_zh": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
         "title_en": null,
-        "title_original": "谷歌AI大动作：图片视频水印终于可以去掉了！",
+        "title_original": "AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30397",
+        "url": "https://www.aibase.com/news/30396",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -2008,7 +1927,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T09:58:45.782848Z"
+        "scored_at": "2026-08-17T10:49:30.708459Z"
+      }
+    },
+    {
+      "story_id": "story_ad56c119c312",
+      "title": "克劳德：系统提示",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "platform.claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "title_zh": "克劳德：系统提示",
+          "title_en": null,
+          "title_original": "克劳德：系统提示",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
+        },
+        {
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
+          "title": "Claude：系统提示 / Claude: System Prompts",
+          "title_zh": "Claude：系统提示",
+          "title_en": "Claude: System Prompts",
+          "title_original": "Claude: System Prompts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T12:48:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "platform.claude.com"
+      ],
+      "items": [
+        {
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "title_zh": "克劳德：系统提示",
+          "title_en": null,
+          "title_original": "克劳德：系统提示",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
+        },
+        {
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
+          "title": "Claude：系统提示 / Claude: System Prompts",
+          "title_zh": "Claude：系统提示",
+          "title_en": "Claude: System Prompts",
+          "title_original": "Claude: System Prompts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T12:48:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5001,
+      "importance": 0.5001,
+      "importance_score": 0.5001,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7458,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T12:48:21Z",
+      "latest_at": "2026-08-16T14:30:18.432000Z",
+      "primary_item": {
+        "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+        "title": "克劳德：系统提示",
+        "title_zh": "克劳德：系统提示",
+        "title_en": null,
+        "title_original": "克劳德：系统提示",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "source": "platform.claude.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T10:49:30.708459Z"
       }
     }
   ]
