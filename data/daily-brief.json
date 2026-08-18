@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T20:41:10.324979Z",
+  "generated_at": "2026-08-18T21:38:46.965320Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8786,
-      "importance": 0.8786,
-      "importance_score": 0.8786,
+      "score": 0.8762,
+      "importance": 0.8762,
+      "importance_score": 0.8762,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9642,
+        "recency": 0.9509,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -190,15 +190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8615,
-      "importance": 0.8615,
-      "importance_score": 0.8615,
+      "score": 0.8593,
+      "importance": 0.8593,
+      "importance_score": 0.8593,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8695,
+        "recency": 0.8575,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,12 +226,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
       "story_id": "story_17c97873294f",
-      "title": "加强国家安全民主监督 / Strengthening Democratic Oversight in National Security",
+      "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "source": "OpenAI News",
@@ -239,10 +239,10 @@
       "sources": [
         {
           "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening Democratic Oversight in National Security",
+          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
           "title_zh": "加强国家安全民主监督",
-          "title_en": "Strengthening Democratic Oversight in National Security",
-          "title_original": "Strengthening Democratic Oversight in National Security",
+          "title_en": "Strengthening democratic oversight in national security",
+          "title_original": "Strengthening democratic oversight in national security",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -259,10 +259,10 @@
       "items": [
         {
           "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening Democratic Oversight in National Security",
+          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
           "title_zh": "加强国家安全民主监督",
-          "title_en": "Strengthening Democratic Oversight in National Security",
-          "title_original": "Strengthening Democratic Oversight in National Security",
+          "title_en": "Strengthening democratic oversight in national security",
+          "title_original": "Strengthening democratic oversight in national security",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -274,15 +274,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8453,
+      "importance": 0.8453,
+      "importance_score": 0.8453,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9759,
+        "recency": 0.9625,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,10 +295,10 @@
       "latest_at": "2026-08-18T19:00:00Z",
       "primary_item": {
         "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-        "title": "加强国家安全民主监督 / Strengthening Democratic Oversight in National Security",
+        "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
         "title_zh": "加强国家安全民主监督",
-        "title_en": "Strengthening Democratic Oversight in National Security",
-        "title_original": "Strengthening Democratic Oversight in National Security",
+        "title_en": "Strengthening democratic oversight in national security",
+        "title_original": "Strengthening democratic oversight in national security",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -309,7 +309,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -386,15 +386,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7418,
+        "recency": 0.7316,
         "story_heat": 0.25
       },
       "category": "official",
@@ -422,7 +422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -499,15 +499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7231,
+        "recency": 0.7131,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -534,7 +534,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -582,15 +582,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8695,
+        "recency": 0.8575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -617,7 +617,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -694,15 +694,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8547,
+        "recency": 0.8429,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -729,7 +729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -777,15 +777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -811,7 +811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -859,15 +859,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7351,
+        "recency": 0.725,
         "story_heat": 0.0
       },
       "category": "official",
@@ -893,7 +893,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -941,15 +941,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9636,
+        "recency": 0.9503,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -974,7 +974,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -1022,15 +1022,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9916,
+        "recency": 0.9779,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1055,7 +1055,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -1103,15 +1103,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8695,
+        "recency": 0.8575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1138,7 +1138,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -1186,15 +1186,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9821,
+        "recency": 0.9686,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1219,7 +1219,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -1296,15 +1296,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8434,
+        "recency": 0.8318,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1331,88 +1331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
-      }
-    },
-    {
-      "story_id": "story_886d9637cc01",
-      "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
-      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-      "primary_url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
-          "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
-          "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
-          "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
-          "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
-          "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
-          "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
-      ],
-      "items": [
-        {
-          "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
-          "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
-          "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
-          "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
-          "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
-          "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
-          "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8207,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T07:00:00Z",
-      "latest_at": "2026-08-18T07:00:00Z",
-      "primary_item": {
-        "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
-        "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
-        "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
-        "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
-        "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
-        "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
-        "recommend_reason_zh": null,
-        "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -1460,15 +1379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8207,
+        "recency": 0.8094,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1495,7 +1414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -1571,15 +1490,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8434,
+        "recency": 0.8318,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1606,7 +1525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -1654,15 +1573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8668,
+        "recency": 0.8548,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1687,7 +1606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -1735,15 +1654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8547,
+        "recency": 0.8429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1768,7 +1687,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
+      }
+    },
+    {
+      "story_id": "story_f14986276d84",
+      "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+      "url": "https://www.aibase.com/news/30442",
+      "primary_url": "https://www.aibase.com/news/30442",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
+          "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "title_zh": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "title_en": null,
+          "title_original": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30442",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T09:48:39.168543Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
+          "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "title_zh": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "title_en": null,
+          "title_original": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30442",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T09:48:39.168543Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8429,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T09:48:39.168543Z",
+      "latest_at": "2026-08-18T09:48:39.168543Z",
+      "primary_item": {
+        "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
+        "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+        "title_zh": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+        "title_en": null,
+        "title_original": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30442",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     },
     {
@@ -1808,7 +1808,7 @@
           "published_at": "2026-08-18T18:14:09.002000Z"
         },
         {
-          "id": "475cd3dd93a2300aa584974fb07388cd8a77fbea",
+          "id": "8346c17d96c80d0b9d77d09be59509ea84225bc3",
           "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code May–August 2026 weekly limits promotion",
           "title_zh": "Claude·科德的每周限额明天将减少三分之一",
           "title_en": "Claude Code May–August 2026 weekly limits promotion",
@@ -1816,9 +1816,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-18T17:02:15Z"
         },
         {
@@ -1839,7 +1839,7 @@
       "source_count": 4,
       "source_names": [
         "HN Algolia · AI 24h",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "support.claude.com"
       ],
@@ -1873,7 +1873,7 @@
           "published_at": "2026-08-18T18:14:09.002000Z"
         },
         {
-          "id": "475cd3dd93a2300aa584974fb07388cd8a77fbea",
+          "id": "8346c17d96c80d0b9d77d09be59509ea84225bc3",
           "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code May–August 2026 weekly limits promotion",
           "title_zh": "Claude·科德的每周限额明天将减少三分之一",
           "title_en": "Claude Code May–August 2026 weekly limits promotion",
@@ -1881,9 +1881,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-18T17:02:15Z"
         },
         {
@@ -1903,15 +1903,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5914,
-      "importance": 0.5914,
-      "importance_score": 0.5914,
+      "score": 0.5889,
+      "importance": 0.5889,
+      "importance_score": 0.5889,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9754,
+        "recency": 0.9619,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1936,7 +1936,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:41:56.870644Z"
+        "scored_at": "2026-08-18T21:39:48.367445Z"
       }
     }
   ]
