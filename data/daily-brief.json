@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T20:40:03.290884Z",
+  "generated_at": "2026-08-23T21:35:59.896540Z",
   "window_hours": 24,
   "total_items": 13,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9112,
+        "recency": 0.899,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
@@ -129,15 +129,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7868,
+        "recency": 0.7763,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -162,7 +162,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
@@ -210,15 +210,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7516,
+        "recency": 0.7415,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -243,109 +243,165 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
-      "story_id": "story_674b087cecd1",
-      "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-      "url": "https://news.ycombinator.com/item?id=49410480",
-      "primary_url": "https://news.ycombinator.com/item?id=49410480",
+      "story_id": "story_de869c952dfe",
+      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+      "url": "https://news.ycombinator.com/item?id=49411178",
+      "primary_url": "https://news.ycombinator.com/item?id=49411178",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "title_zh": null,
-          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410480",
+          "url": "https://news.ycombinator.com/item?id=49411178",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T21:37:44.331000Z"
+        },
+        {
+          "id": "74c08f2a6e4d7e05f53510e48f4fe91671c218ba",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_zh": null,
+          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49411178",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T20:29:14.517000Z"
         },
         {
-          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "id": "4c8d577271c898822181c7cb1de5a6ca84193dd2",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "title_zh": null,
-          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
+          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-23T17:07:04Z"
+          "published_at": "2026-08-23T18:27:33Z"
+        },
+        {
+          "id": "31d30663a2b7301495e7fe3aa84028cb82733e8c",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_zh": null,
+          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T18:27:33Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "title_zh": null,
-          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410480",
+          "url": "https://news.ycombinator.com/item?id=49411178",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T21:37:44.331000Z"
+        },
+        {
+          "id": "74c08f2a6e4d7e05f53510e48f4fe91671c218ba",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_zh": null,
+          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49411178",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T20:29:14.517000Z"
         },
         {
-          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "id": "4c8d577271c898822181c7cb1de5a6ca84193dd2",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "title_zh": null,
-          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
+          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-23T17:07:04Z"
+          "published_at": "2026-08-23T18:27:33Z"
+        },
+        {
+          "id": "31d30663a2b7301495e7fe3aa84028cb82733e8c",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_zh": null,
+          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T18:27:33Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
-      "importance_label": "值得关注",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5958,
+      "importance": 0.5958,
+      "importance_score": 0.5958,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9974,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.75
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T17:07:04Z",
-      "latest_at": "2026-08-23T20:29:14.517000Z",
+      "earliest_at": "2026-08-23T18:27:33Z",
+      "latest_at": "2026-08-23T21:37:44.331000Z",
       "primary_item": {
-        "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-        "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+        "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
+        "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
         "title_zh": null,
-        "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-        "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+        "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+        "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49410480",
+        "url": "https://news.ycombinator.com/item?id=49411178",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -353,7 +409,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
@@ -430,15 +486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.86,
+        "recency": 0.8485,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -463,44 +519,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
-      "story_id": "story_a648cb6edf34",
-      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-      "url": "https://news.ycombinator.com/item?id=49411178",
-      "primary_url": "https://news.ycombinator.com/item?id=49411178",
+      "story_id": "story_674b087cecd1",
+      "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+      "url": "https://news.ycombinator.com/item?id=49410480",
+      "primary_url": "https://news.ycombinator.com/item?id=49410480",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "74c08f2a6e4d7e05f53510e48f4fe91671c218ba",
-          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
           "title_zh": null,
-          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49411178",
+          "url": "https://news.ycombinator.com/item?id=49410480",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T20:29:14.517000Z"
         },
         {
-          "id": "31d30663a2b7301495e7fe3aa84028cb82733e8c",
-          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
           "title_zh": null,
-          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
+          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-23T18:27:33Z"
+          "published_at": "2026-08-23T17:07:04Z"
         }
       ],
       "source_count": 2,
@@ -510,62 +566,62 @@
       ],
       "items": [
         {
-          "id": "74c08f2a6e4d7e05f53510e48f4fe91671c218ba",
-          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
           "title_zh": null,
-          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49411178",
+          "url": "https://news.ycombinator.com/item?id=49410480",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T20:29:14.517000Z"
         },
         {
-          "id": "31d30663a2b7301495e7fe3aa84028cb82733e8c",
-          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
           "title_zh": null,
-          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
+          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-23T18:27:33Z"
+          "published_at": "2026-08-23T17:07:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9974,
+        "recency": 0.9841,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T18:27:33Z",
+      "earliest_at": "2026-08-23T17:07:04Z",
       "latest_at": "2026-08-23T20:29:14.517000Z",
       "primary_item": {
-        "id": "74c08f2a6e4d7e05f53510e48f4fe91671c218ba",
-        "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+        "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
+        "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
         "title_zh": null,
-        "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-        "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+        "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+        "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49411178",
+        "url": "https://news.ycombinator.com/item?id=49410480",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -573,7 +629,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
@@ -650,15 +706,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9974,
+        "recency": 0.9841,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -683,7 +739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
@@ -760,15 +816,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9974,
+        "recency": 0.9841,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -793,7 +849,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
@@ -870,15 +926,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9974,
+        "recency": 0.9841,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -903,7 +959,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
@@ -980,15 +1036,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9849,
+        "recency": 0.9718,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1013,7 +1069,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
@@ -1090,15 +1146,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9689,
+        "recency": 0.956,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1123,7 +1179,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
@@ -1200,15 +1256,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9566,
+        "recency": 0.9438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1233,7 +1289,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     },
     {
@@ -1310,15 +1366,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9412,
+        "recency": 0.9286,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1343,7 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T21:01:15.834528Z"
+        "scored_at": "2026-08-23T21:59:36.605117Z"
       }
     }
   ]
