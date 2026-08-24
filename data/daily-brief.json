@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T03:16:59.054463Z",
+  "generated_at": "2026-08-24T04:10:02.906206Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8577,
-      "importance": 0.8577,
-      "importance_score": 0.8577,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9537,
+        "recency": 0.9416,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
+      }
+    },
+    {
+      "story_id": "story_6ec96b1638b3",
+      "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+      "url": "https://www.aibase.com/news/30562",
+      "primary_url": "https://www.aibase.com/news/30562",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
+          "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+          "title_zh": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+          "title_en": null,
+          "title_original": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30562",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T04:10:02.906206Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
+          "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+          "title_zh": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+          "title_en": null,
+          "title_original": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30562",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T04:10:02.906206Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T04:10:02.906206Z",
+      "latest_at": "2026-08-24T04:10:02.906206Z",
+      "primary_item": {
+        "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
+        "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+        "title_zh": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+        "title_en": null,
+        "title_original": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30562",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -131,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,89 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
-      }
-    },
-    {
-      "story_id": "story_e580fc31f411",
-      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-      "url": "https://www.aibase.com/news/30560",
-      "primary_url": "https://www.aibase.com/news/30560",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8d89245121d571a0818783bedc56d65364697144",
-          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "title_zh": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "title_en": null,
-          "title_original": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:16:59.054463Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8d89245121d571a0818783bedc56d65364697144",
-          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "title_zh": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "title_en": null,
-          "title_original": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:16:59.054463Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T03:16:59.054463Z",
-      "latest_at": "2026-08-24T03:16:59.054463Z",
-      "primary_item": {
-        "id": "8d89245121d571a0818783bedc56d65364697144",
-        "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-        "title_zh": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-        "title_en": null,
-        "title_original": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30560",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -295,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8281,
+        "recency": 0.8176,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,7 +328,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
+      }
+    },
+    {
+      "story_id": "story_e580fc31f411",
+      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+      "url": "https://www.aibase.com/news/30560",
+      "primary_url": "https://www.aibase.com/news/30560",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "title_zh": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "title_en": null,
+          "title_original": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:16:59.054463Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "title_zh": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "title_en": null,
+          "title_original": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:16:59.054463Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9873,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T03:16:59.054463Z",
+      "latest_at": "2026-08-24T03:16:59.054463Z",
+      "primary_item": {
+        "id": "8d89245121d571a0818783bedc56d65364697144",
+        "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+        "title_zh": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+        "title_en": null,
+        "title_original": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30560",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -376,15 +458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,7 +492,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -458,15 +540,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -492,7 +574,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -540,15 +622,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -574,7 +656,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -622,15 +704,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,89 +738,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
-      }
-    },
-    {
-      "story_id": "story_44175a8764e9",
-      "title": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
-      "url": "https://www.aibase.com/news/30555",
-      "primary_url": "https://www.aibase.com/news/30555",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4e958fc218ffb759d52b5227374c7228d157d4ce",
-          "title": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
-          "title_zh": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
-          "title_en": null,
-          "title_original": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:16:59.054463Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4e958fc218ffb759d52b5227374c7228d157d4ce",
-          "title": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
-          "title_zh": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
-          "title_en": null,
-          "title_original": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:16:59.054463Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T03:16:59.054463Z",
-      "latest_at": "2026-08-24T03:16:59.054463Z",
-      "primary_item": {
-        "id": "4e958fc218ffb759d52b5227374c7228d157d4ce",
-        "title": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
-        "title_zh": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
-        "title_en": null,
-        "title_original": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30555",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -872,15 +872,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5817,
-      "importance": 0.5817,
-      "importance_score": 0.5817,
+      "score": 0.5796,
+      "importance": 0.5796,
+      "importance_score": 0.5796,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9216,
+        "recency": 0.9099,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -905,7 +905,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
+      }
+    },
+    {
+      "story_id": "story_44175a8764e9",
+      "title": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
+      "url": "https://www.aibase.com/news/30555",
+      "primary_url": "https://www.aibase.com/news/30555",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4e958fc218ffb759d52b5227374c7228d157d4ce",
+          "title": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
+          "title_zh": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
+          "title_en": null,
+          "title_original": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:16:59.054463Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4e958fc218ffb759d52b5227374c7228d157d4ce",
+          "title": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
+          "title_zh": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
+          "title_en": null,
+          "title_original": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:16:59.054463Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9873,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T03:16:59.054463Z",
+      "latest_at": "2026-08-24T03:16:59.054463Z",
+      "primary_item": {
+        "id": "4e958fc218ffb759d52b5227374c7228d157d4ce",
+        "title": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
+        "title_zh": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
+        "title_en": null,
+        "title_original": "联想牵手海尔：AI PC 接入智慧家庭，共推\"算力 + 场景\"融合",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30555",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -953,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -987,7 +1069,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
+      }
+    },
+    {
+      "story_id": "story_0c44db5345da",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://news.ycombinator.com/item?id=49413561",
+      "primary_url": "https://news.ycombinator.com/item?id=49413561",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_zh": null,
+          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49413561",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T03:55:33.737000Z"
+        },
+        {
+          "id": "0d691c626ed8b9972f0d0404e1639e295ddfdc54",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_zh": null,
+          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T23:18:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_zh": null,
+          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49413561",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T03:55:33.737000Z"
+        },
+        {
+          "id": "0d691c626ed8b9972f0d0404e1639e295ddfdc54",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_zh": null,
+          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T23:18:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9965,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T23:18:17Z",
+      "latest_at": "2026-08-24T03:55:33.737000Z",
+      "primary_item": {
+        "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+        "title": "I built a low-latency AI companion that plays Skyrim with me",
+        "title_zh": null,
+        "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+        "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49413561",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -1035,15 +1227,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1069,7 +1261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -1146,15 +1338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9481,
+        "recency": 0.9361,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1179,7 +1371,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -1227,15 +1419,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1261,7 +1453,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -1338,15 +1530,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9353,
+        "recency": 0.9234,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1371,7 +1563,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -1419,15 +1611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1453,7 +1645,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -1530,15 +1722,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9065,
+        "recency": 0.895,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1563,7 +1755,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     },
     {
@@ -1611,15 +1803,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1645,199 +1837,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
-      }
-    },
-    {
-      "story_id": "story_512f418afc66",
-      "title": "I turned Unix talk from 1983 into the interface for my AI",
-      "url": "https://news.ycombinator.com/item?id=49410936",
-      "primary_url": "https://news.ycombinator.com/item?id=49410936",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "689f77ac07c92976524e3cb29f117a67688c6c3f",
-          "title": "I turned Unix talk from 1983 into the interface for my AI",
-          "title_zh": null,
-          "title_en": "I turned Unix talk from 1983 into the interface for my AI",
-          "title_original": "I turned Unix talk from 1983 into the interface for my AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410936",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T20:29:14.517000Z"
-        },
-        {
-          "id": "21e9fab46ffb6263a5f3657d7e2ef728915cdbbd",
-          "title": "I turned Unix talk from 1983 into the interface for my AI",
-          "title_zh": null,
-          "title_en": "I turned Unix talk from 1983 into the interface for my AI",
-          "title_original": "I turned Unix talk from 1983 into the interface for my AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T18:00:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "689f77ac07c92976524e3cb29f117a67688c6c3f",
-          "title": "I turned Unix talk from 1983 into the interface for my AI",
-          "title_zh": null,
-          "title_en": "I turned Unix talk from 1983 into the interface for my AI",
-          "title_original": "I turned Unix talk from 1983 into the interface for my AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410936",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T20:29:14.517000Z"
-        },
-        {
-          "id": "21e9fab46ffb6263a5f3657d7e2ef728915cdbbd",
-          "title": "I turned Unix talk from 1983 into the interface for my AI",
-          "title_zh": null,
-          "title_en": "I turned Unix talk from 1983 into the interface for my AI",
-          "title_original": "I turned Unix talk from 1983 into the interface for my AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T18:00:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9065,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T18:00:20Z",
-      "latest_at": "2026-08-23T20:29:14.517000Z",
-      "primary_item": {
-        "id": "689f77ac07c92976524e3cb29f117a67688c6c3f",
-        "title": "I turned Unix talk from 1983 into the interface for my AI",
-        "title_zh": null,
-        "title_en": "I turned Unix talk from 1983 into the interface for my AI",
-        "title_original": "I turned Unix talk from 1983 into the interface for my AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49410936",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
-      }
-    },
-    {
-      "story_id": "story_c7b3d9e5c585",
-      "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-      "url": "https://www.aibase.com/news/30538",
-      "primary_url": "https://www.aibase.com/news/30538",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
-          "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-          "title_zh": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-          "title_en": null,
-          "title_original": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T01:57:52.629081Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
-          "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-          "title_zh": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-          "title_en": null,
-          "title_original": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T01:57:52.629081Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9811,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T01:57:52.629081Z",
-      "latest_at": "2026-08-24T01:57:52.629081Z",
-      "primary_item": {
-        "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
-        "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-        "title_zh": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-        "title_en": null,
-        "title_original": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30538",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T03:39:41.987362Z"
+        "scored_at": "2026-08-24T04:33:43.457133Z"
       }
     }
   ]
