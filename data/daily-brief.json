@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:04:51.228784Z",
+  "generated_at": "2026-08-24T10:04:30.662372Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8439,
-      "importance": 0.8439,
-      "importance_score": 0.8439,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8771,
+        "recency": 0.8646,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
+      }
+    },
+    {
+      "story_id": "story_ce6219623afd",
+      "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+      "url": "https://www.aibase.com/news/30580",
+      "primary_url": "https://www.aibase.com/news/30580",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "95357b03325921743506592966964abfe94e9d1b",
+          "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_en": null,
+          "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T10:04:30.662372Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "95357b03325921743506592966964abfe94e9d1b",
+          "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_en": null,
+          "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T10:04:30.662372Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T10:04:30.662372Z",
+      "latest_at": "2026-08-24T10:04:30.662372Z",
+      "primary_item": {
+        "id": "95357b03325921743506592966964abfe94e9d1b",
+        "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+        "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+        "title_en": null,
+        "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30580",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T10:32:24.490081Z"
+      }
+    },
+    {
+      "story_id": "story_6cdec0311de2",
+      "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+      "url": "https://www.aibase.com/news/30579",
+      "primary_url": "https://www.aibase.com/news/30579",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
+          "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_en": null,
+          "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T10:04:30.662372Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
+          "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_en": null,
+          "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T10:04:30.662372Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T10:04:30.662372Z",
+      "latest_at": "2026-08-24T10:04:30.662372Z",
+      "primary_item": {
+        "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
+        "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+        "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+        "title_en": null,
+        "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30579",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
@@ -131,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
@@ -213,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,88 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
-      }
-    },
-    {
-      "story_id": "story_e76d4359eb9a",
-      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-      "url": "https://www.ithome.com/0/993/305.htm",
-      "primary_url": "https://www.ithome.com/0/993/305.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_en": null,
-          "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_en": null,
-          "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7217,
-      "importance": 0.7217,
-      "importance_score": 0.7217,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7616,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-23T14:13:31Z",
-      "latest_at": "2026-08-23T14:13:31Z",
-      "primary_item": {
-        "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "title_en": null,
-        "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/993/305.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
@@ -376,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,7 +493,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
@@ -458,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -492,171 +575,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
-      }
-    },
-    {
-      "story_id": "story_8a41da18f388",
-      "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
-      "url": "https://www.aibase.com/news/30575",
-      "primary_url": "https://www.aibase.com/news/30575",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d396324050e904c672a54d5a0829c02ab1491963",
-          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
-          "title_zh": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
-          "title_en": null,
-          "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T09:04:51.228784Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d396324050e904c672a54d5a0829c02ab1491963",
-          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
-          "title_zh": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
-          "title_en": null,
-          "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T09:04:51.228784Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T09:04:51.228784Z",
-      "latest_at": "2026-08-24T09:04:51.228784Z",
-      "primary_item": {
-        "id": "d396324050e904c672a54d5a0829c02ab1491963",
-        "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
-        "title_zh": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
-        "title_en": null,
-        "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30575",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
-      }
-    },
-    {
-      "story_id": "story_3a026c02ef4a",
-      "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-      "url": "https://www.aibase.com/news/30569",
-      "primary_url": "https://www.aibase.com/news/30569",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "title_en": null,
-          "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:29:13.204311Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "title_en": null,
-          "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:29:13.204311Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9772,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T07:29:13.204311Z",
-      "latest_at": "2026-08-24T07:29:13.204311Z",
-      "primary_item": {
-        "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-        "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-        "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-        "title_en": null,
-        "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30569",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
@@ -733,15 +652,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6013,
-      "importance": 0.6013,
-      "importance_score": 0.6013,
+      "score": 0.5988,
+      "importance": 0.5988,
+      "importance_score": 0.5988,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9494,
+        "recency": 0.9359,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -766,7 +685,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
@@ -843,15 +762,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5915,
-      "importance": 0.5915,
-      "importance_score": 0.5915,
+      "score": 0.5889,
+      "importance": 0.5889,
+      "importance_score": 0.5889,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9876,
+        "recency": 0.9735,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -876,30 +795,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
-      "story_id": "story_38a0d652fe6a",
-      "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-      "url": "https://www.aibase.com/news/30571",
-      "primary_url": "https://www.aibase.com/news/30571",
+      "story_id": "story_8a41da18f388",
+      "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+      "url": "https://www.aibase.com/news/30575",
+      "primary_url": "https://www.aibase.com/news/30575",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "id": "d396324050e904c672a54d5a0829c02ab1491963",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "title_zh": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
           "title_en": null,
-          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30571",
+          "url": "https://www.aibase.com/news/30575",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T07:29:13.204311Z"
+          "published_at": "2026-08-24T09:04:51.228784Z"
         }
       ],
       "source_count": 1,
@@ -908,31 +827,31 @@
       ],
       "items": [
         {
-          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "id": "d396324050e904c672a54d5a0829c02ab1491963",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "title_zh": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
           "title_en": null,
-          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30571",
+          "url": "https://www.aibase.com/news/30575",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T07:29:13.204311Z"
+          "published_at": "2026-08-24T09:04:51.228784Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -940,17 +859,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T07:29:13.204311Z",
-      "latest_at": "2026-08-24T07:29:13.204311Z",
+      "earliest_at": "2026-08-24T09:04:51.228784Z",
+      "latest_at": "2026-08-24T09:04:51.228784Z",
       "primary_item": {
-        "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-        "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-        "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "id": "d396324050e904c672a54d5a0829c02ab1491963",
+        "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+        "title_zh": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
         "title_en": null,
-        "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30571",
+        "url": "https://www.aibase.com/news/30575",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -958,7 +877,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
@@ -1092,15 +1011,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "score": 0.5662,
+      "importance": 0.5662,
+      "importance_score": 0.5662,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8476,
+        "recency": 0.8355,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1125,26 +1044,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
-      "story_id": "story_3cf6331e7775",
-      "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-      "url": "https://www.aibase.com/news/30572",
-      "primary_url": "https://www.aibase.com/news/30572",
+      "story_id": "story_3a026c02ef4a",
+      "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+      "url": "https://www.aibase.com/news/30569",
+      "primary_url": "https://www.aibase.com/news/30569",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
+          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
           "title_en": null,
-          "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+          "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30572",
+          "url": "https://www.aibase.com/news/30569",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1157,14 +1076,14 @@
       ],
       "items": [
         {
-          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
+          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
           "title_en": null,
-          "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+          "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30572",
+          "url": "https://www.aibase.com/news/30569",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1173,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.9633,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1192,14 +1111,14 @@
       "earliest_at": "2026-08-24T07:29:13.204311Z",
       "latest_at": "2026-08-24T07:29:13.204311Z",
       "primary_item": {
-        "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-        "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-        "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+        "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
+        "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+        "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
         "title_en": null,
-        "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+        "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30572",
+        "url": "https://www.aibase.com/news/30569",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1207,26 +1126,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
-      "story_id": "story_812ca6831101",
-      "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-      "url": "https://www.aibase.com/news/30568",
-      "primary_url": "https://www.aibase.com/news/30568",
+      "story_id": "story_38a0d652fe6a",
+      "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+      "url": "https://www.aibase.com/news/30571",
+      "primary_url": "https://www.aibase.com/news/30571",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
-          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
           "title_en": null,
-          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30568",
+          "url": "https://www.aibase.com/news/30571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1239,14 +1158,14 @@
       ],
       "items": [
         {
-          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
-          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
           "title_en": null,
-          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30568",
+          "url": "https://www.aibase.com/news/30571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1255,15 +1174,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.9633,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1274,14 +1193,14 @@
       "earliest_at": "2026-08-24T07:29:13.204311Z",
       "latest_at": "2026-08-24T07:29:13.204311Z",
       "primary_item": {
-        "id": "f256813569aa7710851e92d40d6da25a75e90d07",
-        "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-        "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+        "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+        "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
         "title_en": null,
-        "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+        "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30568",
+        "url": "https://www.aibase.com/news/30571",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1289,7 +1208,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
@@ -1366,15 +1285,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9811,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1399,26 +1318,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
-      "story_id": "story_53906cd2ceab",
-      "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-      "url": "https://www.aibase.com/news/30570",
-      "primary_url": "https://www.aibase.com/news/30570",
+      "story_id": "story_3cf6331e7775",
+      "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+      "url": "https://www.aibase.com/news/30572",
+      "primary_url": "https://www.aibase.com/news/30572",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f7e9ab654ead3a6eed341207217074173776f267",
-          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
+          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+          "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
           "title_en": null,
-          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30570",
+          "url": "https://www.aibase.com/news/30572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1431,14 +1350,14 @@
       ],
       "items": [
         {
-          "id": "f7e9ab654ead3a6eed341207217074173776f267",
-          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
+          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+          "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
           "title_en": null,
-          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30570",
+          "url": "https://www.aibase.com/news/30572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1447,15 +1366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.9633,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1466,14 +1385,14 @@
       "earliest_at": "2026-08-24T07:29:13.204311Z",
       "latest_at": "2026-08-24T07:29:13.204311Z",
       "primary_item": {
-        "id": "f7e9ab654ead3a6eed341207217074173776f267",
-        "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-        "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+        "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
+        "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+        "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
         "title_en": null,
-        "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+        "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30570",
+        "url": "https://www.aibase.com/news/30572",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1481,7 +1400,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
@@ -1558,15 +1477,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9811,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1591,30 +1510,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
-      "story_id": "story_faa9f07849d1",
-      "title": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
-      "url": "https://www.aibase.com/news/30563",
-      "primary_url": "https://www.aibase.com/news/30563",
+      "story_id": "story_812ca6831101",
+      "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+      "url": "https://www.aibase.com/news/30568",
+      "primary_url": "https://www.aibase.com/news/30568",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ad664556033a5311b1bf1a3b91d8f66eec0bb272",
-          "title": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
-          "title_zh": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
+          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
           "title_en": null,
-          "title_original": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30563",
+          "url": "https://www.aibase.com/news/30568",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T05:54:10.413294Z"
+          "published_at": "2026-08-24T07:29:13.204311Z"
         }
       ],
       "source_count": 1,
@@ -1623,31 +1542,31 @@
       ],
       "items": [
         {
-          "id": "ad664556033a5311b1bf1a3b91d8f66eec0bb272",
-          "title": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
-          "title_zh": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
+          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
           "title_en": null,
-          "title_original": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30563",
+          "url": "https://www.aibase.com/news/30568",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T05:54:10.413294Z"
+          "published_at": "2026-08-24T07:29:13.204311Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9633,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1655,17 +1574,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T05:54:10.413294Z",
-      "latest_at": "2026-08-24T05:54:10.413294Z",
+      "earliest_at": "2026-08-24T07:29:13.204311Z",
+      "latest_at": "2026-08-24T07:29:13.204311Z",
       "primary_item": {
-        "id": "ad664556033a5311b1bf1a3b91d8f66eec0bb272",
-        "title": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
-        "title_zh": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+        "id": "f256813569aa7710851e92d40d6da25a75e90d07",
+        "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+        "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
         "title_en": null,
-        "title_original": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+        "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30563",
+        "url": "https://www.aibase.com/news/30568",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1673,7 +1592,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
@@ -1750,15 +1669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9736,
+        "recency": 0.9597,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1783,30 +1702,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     },
     {
-      "story_id": "story_f83cc5b4b04b",
-      "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-      "url": "https://www.aibase.com/news/30565",
-      "primary_url": "https://www.aibase.com/news/30565",
+      "story_id": "story_53906cd2ceab",
+      "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+      "url": "https://www.aibase.com/news/30570",
+      "primary_url": "https://www.aibase.com/news/30570",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "id": "f7e9ab654ead3a6eed341207217074173776f267",
+          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
           "title_en": null,
-          "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30565",
+          "url": "https://www.aibase.com/news/30570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T05:54:10.413294Z"
+          "published_at": "2026-08-24T07:29:13.204311Z"
         }
       ],
       "source_count": 1,
@@ -1815,31 +1734,31 @@
       ],
       "items": [
         {
-          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "id": "f7e9ab654ead3a6eed341207217074173776f267",
+          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
           "title_en": null,
-          "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30565",
+          "url": "https://www.aibase.com/news/30570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T05:54:10.413294Z"
+          "published_at": "2026-08-24T07:29:13.204311Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9633,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1847,17 +1766,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T05:54:10.413294Z",
-      "latest_at": "2026-08-24T05:54:10.413294Z",
+      "earliest_at": "2026-08-24T07:29:13.204311Z",
+      "latest_at": "2026-08-24T07:29:13.204311Z",
       "primary_item": {
-        "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-        "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-        "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+        "id": "f7e9ab654ead3a6eed341207217074173776f267",
+        "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+        "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
         "title_en": null,
-        "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+        "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30565",
+        "url": "https://www.aibase.com/news/30570",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1865,7 +1784,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:31:25.099063Z"
+        "scored_at": "2026-08-24T10:32:24.490081Z"
+      }
+    },
+    {
+      "story_id": "story_0c44db5345da",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://news.ycombinator.com/item?id=49413561",
+      "primary_url": "https://news.ycombinator.com/item?id=49413561",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_zh": null,
+          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49413561",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T03:55:33.737000Z"
+        },
+        {
+          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_zh": null,
+          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:18:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_zh": null,
+          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49413561",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T03:55:33.737000Z"
+        },
+        {
+          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_zh": null,
+          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:18:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.915,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T23:18:17Z",
+      "latest_at": "2026-08-24T03:55:33.737000Z",
+      "primary_item": {
+        "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+        "title": "I built a low-latency AI companion that plays Skyrim with me",
+        "title_zh": null,
+        "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+        "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49413561",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T10:32:24.490081Z"
       }
     }
   ]
