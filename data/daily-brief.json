@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:01:10.367159Z",
+  "generated_at": "2026-08-25T04:54:35.971859Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9436,
+        "recency": 0.9316,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7935,
+        "recency": 0.7833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9872,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -325,15 +325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8286,
+        "recency": 0.818,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -360,7 +360,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -408,15 +408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9872,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -442,7 +442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -490,15 +490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9885,
+        "recency": 0.9759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -524,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -572,15 +572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9885,
+        "recency": 0.9759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -654,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9885,
+        "recency": 0.9759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -688,7 +688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -736,15 +736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9885,
+        "recency": 0.9759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -770,7 +770,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -818,15 +818,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9696,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -852,7 +852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -958,15 +958,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5683,
-      "importance": 0.5683,
-      "importance_score": 0.5683,
+      "score": 0.566,
+      "importance": 0.566,
+      "importance_score": 0.566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9861,
+        "recency": 0.9735,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -991,7 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -1068,15 +1068,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5604,
-      "importance": 0.5604,
-      "importance_score": 0.5604,
+      "score": 0.5587,
+      "importance": 0.5587,
+      "importance_score": 0.5587,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7223,
+        "recency": 0.713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1101,7 +1101,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -1149,15 +1149,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9696,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1183,7 +1183,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
+      }
+    },
+    {
+      "story_id": "story_a1a7ae4f668f",
+      "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+      "url": "https://www.ithome.com/0/993/604.htm",
+      "primary_url": "https://www.ithome.com/0/993/604.htm",
+      "source": "IT之家",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "0a28d8a8bde498b9dab9bae3239422a8abea1120",
+          "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+          "title_zh": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+          "title_en": null,
+          "title_original": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/993/604.htm",
+          "source": "IT之家",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-24T08:12:54Z"
+        },
+        {
+          "id": "c5bded2ef133d32a94ab6b46bcf41ff272631256",
+          "title": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
+          "title_zh": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
+          "title_en": null,
+          "title_original": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.36kr.com/newsflashes/3953243981659524",
+          "source": "36氪快讯",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-24T08:07:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪快讯",
+        "IT之家"
+      ],
+      "items": [
+        {
+          "id": "0a28d8a8bde498b9dab9bae3239422a8abea1120",
+          "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+          "title_zh": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+          "title_en": null,
+          "title_original": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/993/604.htm",
+          "source": "IT之家",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-24T08:12:54Z"
+        },
+        {
+          "id": "c5bded2ef133d32a94ab6b46bcf41ff272631256",
+          "title": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
+          "title_zh": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
+          "title_en": null,
+          "title_original": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.36kr.com/newsflashes/3953243981659524",
+          "source": "36氪快讯",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-24T08:07:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5472,
+      "importance": 0.5472,
+      "importance_score": 0.5472,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.7417,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T08:07:44Z",
+      "latest_at": "2026-08-24T08:12:54Z",
+      "primary_item": {
+        "id": "0a28d8a8bde498b9dab9bae3239422a8abea1120",
+        "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+        "title_zh": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+        "title_en": null,
+        "title_original": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/993/604.htm",
+        "source": "IT之家",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -1289,15 +1399,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5489,
-      "importance": 0.5489,
-      "importance_score": 0.5489,
+      "score": 0.5469,
+      "importance": 0.5469,
+      "importance_score": 0.5469,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8783,
+        "recency": 0.8671,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1322,117 +1432,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
-      }
-    },
-    {
-      "story_id": "story_a1a7ae4f668f",
-      "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
-      "url": "https://www.ithome.com/0/993/604.htm",
-      "primary_url": "https://www.ithome.com/0/993/604.htm",
-      "source": "IT之家",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "0a28d8a8bde498b9dab9bae3239422a8abea1120",
-          "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
-          "title_zh": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
-          "title_en": null,
-          "title_original": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/993/604.htm",
-          "source": "IT之家",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-24T08:12:54Z"
-        },
-        {
-          "id": "c5bded2ef133d32a94ab6b46bcf41ff272631256",
-          "title": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
-          "title_zh": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
-          "title_en": null,
-          "title_original": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.36kr.com/newsflashes/3953243981659524",
-          "source": "36氪快讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-24T08:07:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪快讯",
-        "IT之家"
-      ],
-      "items": [
-        {
-          "id": "0a28d8a8bde498b9dab9bae3239422a8abea1120",
-          "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
-          "title_zh": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
-          "title_en": null,
-          "title_original": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/993/604.htm",
-          "source": "IT之家",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-24T08:12:54Z"
-        },
-        {
-          "id": "c5bded2ef133d32a94ab6b46bcf41ff272631256",
-          "title": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
-          "title_zh": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
-          "title_en": null,
-          "title_original": "字节AI生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 “豆包工作”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.36kr.com/newsflashes/3953243981659524",
-          "source": "36氪快讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-24T08:07:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5489,
-      "importance": 0.5489,
-      "importance_score": 0.5489,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.7513,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T08:07:44Z",
-      "latest_at": "2026-08-24T08:12:54Z",
-      "primary_item": {
-        "id": "0a28d8a8bde498b9dab9bae3239422a8abea1120",
-        "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
-        "title_zh": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
-        "title_en": null,
-        "title_original": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/993/604.htm",
-        "source": "IT之家",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -1472,7 +1472,7 @@
           "published_at": "2026-08-24T15:37:22.419000Z"
         },
         {
-          "id": "5e3777dc137be3564ead408f51776abe592857dc",
+          "id": "51dff6227163faf03ca5efdaac0656b4474713e9",
           "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日） / OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
           "title_zh": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
           "title_en": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
@@ -1480,15 +1480,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://developers.openai.com/api/docs/pricing",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-24T15:22:43Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "developers.openai.com",
         "hackernews"
       ],
@@ -1522,7 +1522,7 @@
           "published_at": "2026-08-24T15:37:22.419000Z"
         },
         {
-          "id": "5e3777dc137be3564ead408f51776abe592857dc",
+          "id": "51dff6227163faf03ca5efdaac0656b4474713e9",
           "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日） / OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
           "title_zh": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
           "title_en": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
@@ -1530,23 +1530,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://developers.openai.com/api/docs/pricing",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-24T15:22:43Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5483,
-      "importance": 0.5483,
-      "importance_score": 0.5483,
+      "score": 0.5463,
+      "importance": 0.5463,
+      "importance_score": 0.5463,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8749,
+        "recency": 0.8637,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1571,7 +1571,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -1611,7 +1611,7 @@
           "published_at": "2026-08-24T16:37:31.237000Z"
         },
         {
-          "id": "cfdcc4e5dc60c90eb8651e950c6cbe4fac0bef28",
+          "id": "279aab2d3ea86f8c4dc98fed09a833b4aac60148",
           "title": "对人工智能的依赖将导致编程专业技能的崩溃 / Coding expertise is going to collapse from AI reliance",
           "title_zh": "对人工智能的依赖将导致编程专业技能的崩溃",
           "title_en": "Coding expertise is going to collapse from AI reliance",
@@ -1619,15 +1619,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-24T15:52:33Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "larsfaye.com"
       ],
@@ -1661,7 +1661,7 @@
           "published_at": "2026-08-24T16:37:31.237000Z"
         },
         {
-          "id": "cfdcc4e5dc60c90eb8651e950c6cbe4fac0bef28",
+          "id": "279aab2d3ea86f8c4dc98fed09a833b4aac60148",
           "title": "对人工智能的依赖将导致编程专业技能的崩溃 / Coding expertise is going to collapse from AI reliance",
           "title_zh": "对人工智能的依赖将导致编程专业技能的崩溃",
           "title_en": "Coding expertise is going to collapse from AI reliance",
@@ -1669,23 +1669,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-24T15:52:33Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5483,
-      "importance": 0.5483,
-      "importance_score": 0.5483,
+      "score": 0.5463,
+      "importance": 0.5463,
+      "importance_score": 0.5463,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8749,
+        "recency": 0.8637,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1710,7 +1710,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -1816,15 +1816,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.546,
+      "importance": 0.546,
+      "importance_score": 0.546,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8732,
+        "recency": 0.8621,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1849,7 +1849,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
@@ -1897,15 +1897,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9696,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1931,117 +1931,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     },
     {
-      "story_id": "story_113a05038284",
-      "title": "What languages are agent skills written in?",
-      "url": "https://news.ycombinator.com/item?id=49427825",
-      "primary_url": "https://news.ycombinator.com/item?id=49427825",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_66cede55297b",
+      "title": "Ox-Alpha Is GLM",
+      "url": "https://dejan.ai/blog/ox-alpha",
+      "primary_url": "https://dejan.ai/blog/ox-alpha",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "501aa75ee1f0aad21123c9e79896f53897afa5a6",
-          "title": "What languages are agent skills written in?",
+          "id": "d04d404be7afc9c176ec1aa295f149785b997a76",
+          "title": "Ox-Alpha Is GLM",
           "title_zh": null,
-          "title_en": "What languages are agent skills written in?",
-          "title_original": "What languages are agent skills written in?",
+          "title_en": "Ox-Alpha Is GLM",
+          "title_original": "Ox-Alpha Is GLM",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49427825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T01:53:07.860000Z"
+          "url": "https://dejan.ai/blog/ox-alpha",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-24T16:30:16Z"
         },
         {
-          "id": "71cff0d6efaaec7bf0e17bff65330d8e7a9c5c79",
-          "title": "What languages are agent skills written in?",
+          "id": "d22b1ae33d04ccad6b8effe833619d4121694962",
+          "title": "Ox-Alpha Is GLM?",
           "title_zh": null,
-          "title_en": "What languages are agent skills written in?",
-          "title_original": "What languages are agent skills written in?",
+          "title_en": "Ox-Alpha Is GLM?",
+          "title_original": "Ox-Alpha Is GLM?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://plicara.ai/research/agent-skill-languages",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T00:52:27Z"
+          "url": "https://dejan.ai/blog/ox-alpha",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T16:30:16Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "501aa75ee1f0aad21123c9e79896f53897afa5a6",
-          "title": "What languages are agent skills written in?",
+          "id": "d04d404be7afc9c176ec1aa295f149785b997a76",
+          "title": "Ox-Alpha Is GLM",
           "title_zh": null,
-          "title_en": "What languages are agent skills written in?",
-          "title_original": "What languages are agent skills written in?",
+          "title_en": "Ox-Alpha Is GLM",
+          "title_original": "Ox-Alpha Is GLM",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49427825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T01:53:07.860000Z"
+          "url": "https://dejan.ai/blog/ox-alpha",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-24T16:30:16Z"
         },
         {
-          "id": "71cff0d6efaaec7bf0e17bff65330d8e7a9c5c79",
-          "title": "What languages are agent skills written in?",
+          "id": "d22b1ae33d04ccad6b8effe833619d4121694962",
+          "title": "Ox-Alpha Is GLM?",
           "title_zh": null,
-          "title_en": "What languages are agent skills written in?",
-          "title_original": "What languages are agent skills written in?",
+          "title_en": "Ox-Alpha Is GLM?",
+          "title_original": "Ox-Alpha Is GLM?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://plicara.ai/research/agent-skill-languages",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T00:52:27Z"
+          "url": "https://dejan.ai/blog/ox-alpha",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T16:30:16Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9697,
+        "recency": 0.836,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-25T00:52:27Z",
-      "latest_at": "2026-08-25T01:53:07.860000Z",
+      "earliest_at": "2026-08-24T16:30:16Z",
+      "latest_at": "2026-08-24T16:30:16Z",
       "primary_item": {
-        "id": "501aa75ee1f0aad21123c9e79896f53897afa5a6",
-        "title": "What languages are agent skills written in?",
+        "id": "d04d404be7afc9c176ec1aa295f149785b997a76",
+        "title": "Ox-Alpha Is GLM",
         "title_zh": null,
-        "title_en": "What languages are agent skills written in?",
-        "title_original": "What languages are agent skills written in?",
+        "title_en": "Ox-Alpha Is GLM",
+        "title_original": "Ox-Alpha Is GLM",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49427825",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://dejan.ai/blog/ox-alpha",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T04:38:08.559848Z"
+        "scored_at": "2026-08-25T05:31:27.499700Z"
       }
     }
   ]
