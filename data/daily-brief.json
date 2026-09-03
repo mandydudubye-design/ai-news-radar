@@ -1,8 +1,344 @@
 {
-  "generated_at": "2026-09-03T04:39:27.238649Z",
+  "generated_at": "2026-09-03T14:35:08.819500Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_16469548a272",
+      "title": "NeoMME：高效的多模态本地多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "primary_url": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+          "title": "NeoMME：高效的多模态本地多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_zh": "NeoMME：高效的多模态本地多语言编码器",
+          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T13:13:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+          "title": "NeoMME：高效的多模态本地多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_zh": "NeoMME：高效的多模态本地多语言编码器",
+          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T13:13:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8565,
+      "importance": 0.8565,
+      "importance_score": 0.8565,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T13:13:48Z",
+      "latest_at": "2026-09-03T13:13:48Z",
+      "primary_item": {
+        "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+        "title": "NeoMME：高效的多模态本地多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "title_zh": "NeoMME：高效的多模态本地多语言编码器",
+        "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Hcompany/neomme",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T14:36:09.619218Z"
+      }
+    },
+    {
+      "story_id": "story_6129f245443c",
+      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "primary_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
+          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+          "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+          "title_en": "NVIDIA to Acquire Hugging Face",
+          "title_original": "NVIDIA to Acquire Hugging Face",
+          "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T11:59:49Z"
+        },
+        {
+          "id": "c34ecfce4127b33bc31e5ac97e15386469e96c44",
+          "title": "Nvidia to Acquire Hugging Face",
+          "title_zh": null,
+          "title_en": "Nvidia to Acquire Hugging Face",
+          "title_original": "Nvidia to Acquire Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49548952",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T14:35:30.238000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "NVIDIA Blog（RSS）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
+          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+          "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+          "title_en": "NVIDIA to Acquire Hugging Face",
+          "title_original": "NVIDIA to Acquire Hugging Face",
+          "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T11:59:49Z"
+        },
+        {
+          "id": "c34ecfce4127b33bc31e5ac97e15386469e96c44",
+          "title": "Nvidia to Acquire Hugging Face",
+          "title_zh": null,
+          "title_en": "Nvidia to Acquire Hugging Face",
+          "title_original": "Nvidia to Acquire Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49548952",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T14:35:30.238000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.91,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9633,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T11:59:49Z",
+      "latest_at": "2026-09-03T14:35:30.238000Z",
+      "primary_item": {
+        "id": "97039d8f5eae769457f61ad241d373cd2c617626",
+        "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+        "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+        "title_en": "NVIDIA to Acquire Hugging Face",
+        "title_original": "NVIDIA to Acquire Hugging Face",
+        "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+        "recommend_reason_zh": null,
+        "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T14:36:09.619218Z"
+      }
+    },
+    {
+      "story_id": "story_dafb420a9a43",
+      "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+      "primary_url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_zh": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_en": null,
+          "title_original": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "summary": "METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。",
+          "recommend_reason_zh": null,
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
+          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "title_zh": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "title_en": null,
+          "title_original": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "metr.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "56d1a46beb49e63c8a6ca58942f3934b4b5f33d8",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告 / METR Report on OpenAI / Hugging Face Hacking Incident",
+          "title_zh": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_en": "METR Report on OpenAI / Hugging Face Hacking Incident",
+          "title_original": "METR Report on OpenAI / Hugging Face Hacking Incident",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T23:08:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "metr.org"
+      ],
+      "items": [
+        {
+          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_zh": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_en": null,
+          "title_original": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "summary": "METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。",
+          "recommend_reason_zh": null,
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
+          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "title_zh": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "title_en": null,
+          "title_original": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "metr.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "56d1a46beb49e63c8a6ca58942f3934b4b5f33d8",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告 / METR Report on OpenAI / Hugging Face Hacking Incident",
+          "title_zh": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_en": "METR Report on OpenAI / Hugging Face Hacking Incident",
+          "title_original": "METR Report on OpenAI / Hugging Face Hacking Incident",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T23:08:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8686,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T23:08:47Z",
+      "latest_at": "2026-09-03T04:49:35.840000Z",
+      "primary_item": {
+        "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+        "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+        "title_zh": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+        "title_en": null,
+        "title_original": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+        "summary": "METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。",
+        "recommend_reason_zh": null,
+        "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T14:36:09.619218Z"
+      }
+    },
     {
       "story_id": "story_0a991ead0e43",
       "title": "Codex CLI 0.153.0",
@@ -48,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8543,
-      "importance": 0.8543,
-      "importance_score": 0.8543,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.935,
+        "recency": 0.8101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +419,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
+      }
+    },
+    {
+      "story_id": "story_12b83da438b4",
+      "title": "Nvidia 以约 129 亿美元收购 Hugging Face，承诺保持开放与硬件中立 / Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+      "url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon",
+      "primary_url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "944b080ce6ad999f17105ca5c7888706749c0991",
+          "title": "Nvidia 以约 129 亿美元收购 Hugging Face，承诺保持开放与硬件中立 / Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+          "title_zh": "Nvidia 以约 129 亿美元收购 Hugging Face，承诺保持开放与硬件中立",
+          "title_en": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+          "title_original": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+          "summary": "Nvidia 宣布以约 129 亿美元收购 Hugging Face，包括约 119 亿美元收购价和至多 10 亿美元留任股票计划，交易需监管批准，预计 2027 年上半年完成。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T14:25:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "944b080ce6ad999f17105ca5c7888706749c0991",
+          "title": "Nvidia 以约 129 亿美元收购 Hugging Face，承诺保持开放与硬件中立 / Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+          "title_zh": "Nvidia 以约 129 亿美元收购 Hugging Face，承诺保持开放与硬件中立",
+          "title_en": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+          "title_original": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+          "summary": "Nvidia 宣布以约 129 亿美元收购 Hugging Face，包括约 119 亿美元收购价和至多 10 亿美元留任股票计划，交易需监管批准，预计 2027 年上半年完成。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T14:25:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9977,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T14:25:37Z",
+      "latest_at": "2026-09-03T14:25:37Z",
+      "primary_item": {
+        "id": "944b080ce6ad999f17105ca5c7888706749c0991",
+        "title": "Nvidia 以约 129 亿美元收购 Hugging Face，承诺保持开放与硬件中立 / Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+        "title_zh": "Nvidia 以约 129 亿美元收购 Hugging Face，承诺保持开放与硬件中立",
+        "title_en": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+        "title_original": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+        "summary": "Nvidia 宣布以约 129 亿美元收购 Hugging Face，包括约 119 亿美元收购价和至多 10 亿美元留任股票计划，交易需监管批准，预计 2027 年上半年完成。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
@@ -131,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8603,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,95 +584,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
-      }
-    },
-    {
-      "story_id": "story_e664187f9e97",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "primary_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_zh": null,
-          "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T13:49:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_zh": null,
-          "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T13:49:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8071,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T13:49:14Z",
-      "latest_at": "2026-09-02T13:49:14Z",
-      "primary_item": {
-        "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-        "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "title_zh": null,
-        "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
       "story_id": "story_e619346b2b34",
-      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
       "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
       "primary_url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
       "source": "GitHub AI & ML",
@@ -262,8 +597,8 @@
       "sources": [
         {
           "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-          "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "title_zh": null,
+          "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_zh": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！",
           "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
           "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
           "summary": null,
@@ -282,8 +617,8 @@
       "items": [
         {
           "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-          "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "title_zh": null,
+          "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_zh": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！",
           "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
           "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
           "summary": null,
@@ -297,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8953,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,8 +653,8 @@
       "latest_at": "2026-09-02T21:00:00Z",
       "primary_item": {
         "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-        "title_zh": null,
+        "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "title_zh": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！",
         "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
         "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
         "summary": null,
@@ -332,7 +667,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
@@ -380,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8367,
+        "recency": 0.7249,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,63 +750,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
-      "story_id": "story_1a90c856fc66",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "primary_url": "https://openai.com/index/atv-big-air-tour",
-      "source": "OpenAI News",
+      "story_id": "story_76c94f0602dc",
+      "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层 / Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "primary_url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "title_zh": null,
-          "title_en": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "title_original": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "id": "e80bb63911575b4bdfc0cecd7003ec089331352b",
+          "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层 / Give Your Coding Agents a Memory You Own",
+          "title_zh": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
+          "title_en": "Give Your Coding Agents a Memory You Own",
+          "title_original": "Give Your Coding Agents a Memory You Own",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/atv-big-air-tour",
-          "source": "OpenAI News",
+          "url": "https://huggingface.co/blog/funes",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T12:00:00Z"
+          "published_at": "2026-09-03T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "title_zh": null,
-          "title_en": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "title_original": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "id": "e80bb63911575b4bdfc0cecd7003ec089331352b",
+          "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层 / Give Your Coding Agents a Memory You Own",
+          "title_zh": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
+          "title_en": "Give Your Coding Agents a Memory You Own",
+          "title_original": "Give Your Coding Agents a Memory You Own",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/atv-big-air-tour",
-          "source": "OpenAI News",
+          "url": "https://huggingface.co/blog/funes",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T12:00:00Z"
+          "published_at": "2026-09-03T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7862,
+        "recency": 0.8101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,25 +815,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T12:00:00Z",
-      "latest_at": "2026-09-02T12:00:00Z",
+      "earliest_at": "2026-09-03T00:00:00Z",
+      "latest_at": "2026-09-03T00:00:00Z",
       "primary_item": {
-        "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
-        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-        "title_zh": null,
-        "title_en": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-        "title_original": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+        "id": "e80bb63911575b4bdfc0cecd7003ec089331352b",
+        "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层 / Give Your Coding Agents a Memory You Own",
+        "title_zh": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
+        "title_en": "Give Your Coding Agents a Memory You Own",
+        "title_original": "Give Your Coding Agents a Memory You Own",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/atv-big-air-tour",
-        "source": "OpenAI News",
+        "url": "https://huggingface.co/blog/funes",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
@@ -546,15 +881,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8289,
+        "recency": 0.7182,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +916,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
@@ -658,15 +993,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9327,
+        "recency": 0.8081,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -693,12 +1028,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
       "story_id": "story_fa76f0c850c4",
-      "title": "Enterprise-managed settings support any default model",
+      "title": "企业管理的设置支持任何默认模型 / Enterprise-managed settings support any default model",
       "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
       "primary_url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
       "source": "GitHub Changelog",
@@ -706,8 +1041,8 @@
       "sources": [
         {
           "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-          "title": "Enterprise-managed settings support any default model",
-          "title_zh": null,
+          "title": "企业管理的设置支持任何默认模型 / Enterprise-managed settings support any default model",
+          "title_zh": "企业管理的设置支持任何默认模型",
           "title_en": "Enterprise-managed settings support any default model",
           "title_original": "Enterprise-managed settings support any default model",
           "summary": null,
@@ -726,8 +1061,8 @@
       "items": [
         {
           "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-          "title": "Enterprise-managed settings support any default model",
-          "title_zh": null,
+          "title": "企业管理的设置支持任何默认模型 / Enterprise-managed settings support any default model",
+          "title_zh": "企业管理的设置支持任何默认模型",
           "title_en": "Enterprise-managed settings support any default model",
           "title_original": "Enterprise-managed settings support any default model",
           "summary": null,
@@ -741,15 +1076,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.868,
+        "recency": 0.7521,
         "story_heat": 0.0
       },
       "category": "official",
@@ -762,8 +1097,8 @@
       "latest_at": "2026-09-02T18:51:12Z",
       "primary_item": {
         "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-        "title": "Enterprise-managed settings support any default model",
-        "title_zh": null,
+        "title": "企业管理的设置支持任何默认模型 / Enterprise-managed settings support any default model",
+        "title_zh": "企业管理的设置支持任何默认模型",
         "title_en": "Enterprise-managed settings support any default model",
         "title_original": "Enterprise-managed settings support any default model",
         "summary": null,
@@ -776,7 +1111,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
@@ -824,15 +1159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8574,
+        "recency": 0.7428,
         "story_heat": 0.0
       },
       "category": "official",
@@ -859,119 +1194,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
-      "story_id": "story_297c4042827c",
-      "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_31e02ba82db7",
+      "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+      "url": "https://www.aibase.com/news/30806",
+      "primary_url": "https://www.aibase.com/news/30806",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "aa94a40b65d18b345f373bb35e8636a13f859fd9",
-          "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_zh": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
-          "title_en": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_original": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T14:35:03Z"
-        },
-        {
-          "id": "0205c072423c3c80df97e01365c75b619fc00457",
-          "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_zh": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
-          "title_en": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_original": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+          "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
+          "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_en": null,
+          "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-02T14:35:03Z"
+          "url": "https://www.aibase.com/news/30806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T14:35:08.819500Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "aa94a40b65d18b345f373bb35e8636a13f859fd9",
-          "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_zh": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
-          "title_en": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_original": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T14:35:03Z"
-        },
-        {
-          "id": "0205c072423c3c80df97e01365c75b619fc00457",
-          "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_zh": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
-          "title_en": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_original": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+          "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
+          "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_en": null,
+          "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-02T14:35:03Z"
+          "url": "https://www.aibase.com/news/30806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T14:35:08.819500Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8161,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T14:35:03Z",
-      "latest_at": "2026-09-02T14:35:03Z",
+      "earliest_at": "2026-09-03T14:35:08.819500Z",
+      "latest_at": "2026-09-03T14:35:08.819500Z",
       "primary_item": {
-        "id": "aa94a40b65d18b345f373bb35e8636a13f859fd9",
-        "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-        "title_zh": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
-        "title_en": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-        "title_original": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-        "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
+        "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
+        "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+        "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+        "title_en": null,
+        "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30806",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
+      }
+    },
+    {
+      "story_id": "story_42b25cdf8d9b",
+      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "primary_url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+          "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+          "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8101,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T00:00:00Z",
+      "latest_at": "2026-09-03T00:00:00Z",
+      "primary_item": {
+        "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+        "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+        "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+        "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+        "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/train-to-paint-with-code",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
@@ -1019,21 +1407,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.7832,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T21:39:44Z",
       "latest_at": "2026-09-02T21:39:44Z",
@@ -1053,171 +1440,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
-      "story_id": "story_a14603975d08",
-      "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-      "url": "https://www.aibase.com/news/30793",
-      "primary_url": "https://www.aibase.com/news/30793",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
-          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "title_zh": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "title_en": null,
-          "title_original": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30793",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T04:39:27.238649Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
-          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "title_zh": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "title_en": null,
-          "title_original": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30793",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T04:39:27.238649Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T04:39:27.238649Z",
-      "latest_at": "2026-09-03T04:39:27.238649Z",
-      "primary_item": {
-        "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
-        "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-        "title_zh": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-        "title_en": null,
-        "title_original": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30793",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
-      }
-    },
-    {
-      "story_id": "story_70594107a2eb",
-      "title": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用 / US Department of Justice backs fair use for AI training in landmark copyright case",
-      "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case",
-      "primary_url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_bbd546f9bbd7",
+      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+      "url": "https://x.com/claudeai/status/2095226833293685100",
+      "primary_url": "https://x.com/claudeai/status/2095226833293685100",
+      "source": "X：Claude (@claudeai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "28ad5898ea5c9d62260109fdcec866945b051b4b",
-          "title": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用 / US Department of Justice backs fair use for AI training in landmark copyright case",
-          "title_zh": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用",
-          "title_en": "US Department of Justice backs fair use for AI training in landmark copyright case",
-          "title_original": "US Department of Justice backs fair use for AI training in landmark copyright case",
-          "summary": "美国司法部在纽约时报等起诉 OpenAI 和 Microsoft 的合并诉讼中提交意见，主张用版权材料训练 LLM 属于合理使用，理由是训练复制与模型输出之间存在法律区分，且输出通常与原作缺乏实质性相似。",
+          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T18:24:42Z"
+          "published_at": "2026-09-02T19:06:19Z"
+        },
+        {
+          "id": "8776f547892fba51390e8accae55f5eb6dc5fbe1",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-02T19:06:19Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "Follow Builders · X · Claude",
+        "X：Claude (@claudeai)"
       ],
       "items": [
         {
-          "id": "28ad5898ea5c9d62260109fdcec866945b051b4b",
-          "title": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用 / US Department of Justice backs fair use for AI training in landmark copyright case",
-          "title_zh": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用",
-          "title_en": "US Department of Justice backs fair use for AI training in landmark copyright case",
-          "title_original": "US Department of Justice backs fair use for AI training in landmark copyright case",
-          "summary": "美国司法部在纽约时报等起诉 OpenAI 和 Microsoft 的合并诉讼中提交意见，主张用版权材料训练 LLM 属于合理使用，理由是训练复制与模型输出之间存在法律区分，且输出通常与原作缺乏实质性相似。",
+          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T18:24:42Z"
+          "published_at": "2026-09-02T19:06:19Z"
+        },
+        {
+          "id": "8776f547892fba51390e8accae55f5eb6dc5fbe1",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-02T19:06:19Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8625,
-        "story_heat": 0.0
+        "recency": 0.7548,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-02T18:24:42Z",
-      "latest_at": "2026-09-02T18:24:42Z",
+      "earliest_at": "2026-09-02T19:06:19Z",
+      "latest_at": "2026-09-02T19:06:19Z",
       "primary_item": {
-        "id": "28ad5898ea5c9d62260109fdcec866945b051b4b",
-        "title": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用 / US Department of Justice backs fair use for AI training in landmark copyright case",
-        "title_zh": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用",
-        "title_en": "US Department of Justice backs fair use for AI training in landmark copyright case",
-        "title_original": "US Department of Justice backs fair use for AI training in landmark copyright case",
-        "summary": "美国司法部在纽约时报等起诉 OpenAI 和 Microsoft 的合并诉讼中提交意见，主张用版权材料训练 LLM 属于合理使用，理由是训练复制与模型输出之间存在法律区分，且输出通常与原作缺乏实质性相似。",
+        "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+        "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+        "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+        "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+        "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case",
-        "source": "The Decoder：AI News（RSS）",
+        "url": "https://x.com/claudeai/status/2095226833293685100",
+        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
@@ -1265,21 +1599,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8471,
+        "recency": 0.734,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T17:10:11Z",
       "latest_at": "2026-09-02T17:10:11Z",
@@ -1299,275 +1632,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
-      "story_id": "story_4b4aed6fd75e",
-      "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions",
-      "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-      "primary_url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9d102a4b917627276b10b1649979cbb2377e9144",
-          "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "title_zh": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-          "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "title_original": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T16:29:43.634000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9d102a4b917627276b10b1649979cbb2377e9144",
-          "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "title_zh": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-          "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "title_original": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T16:29:43.634000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.8389,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T16:29:43.634000Z",
-      "latest_at": "2026-09-02T16:29:43.634000Z",
-      "primary_item": {
-        "id": "9d102a4b917627276b10b1649979cbb2377e9144",
-        "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions",
-        "title_zh": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-        "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-        "title_original": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-        "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
-        "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
-      }
-    },
-    {
-      "story_id": "story_e87d399ddb1c",
-      "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升 / i really hate to say it， but… gemini who？ 🏎️💨",
-      "url": "https://x.com/alexandr_wang/status/2095249704888197175",
-      "primary_url": "https://x.com/alexandr_wang/status/2095249704888197175",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "59310af844c3b24aaa4189d33f8e74b7fcb34dc8",
-          "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升 / i really hate to say it， but… gemini who？ 🏎️💨",
-          "title_zh": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
-          "title_en": "i really hate to say it， but… gemini who？ 🏎️💨",
-          "title_original": "i really hate to say it， but… gemini who？ 🏎️💨",
-          "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/alexandr_wang/status/2095249704888197175",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T20:37:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
-      ],
-      "items": [
-        {
-          "id": "59310af844c3b24aaa4189d33f8e74b7fcb34dc8",
-          "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升 / i really hate to say it， but… gemini who？ 🏎️💨",
-          "title_zh": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
-          "title_en": "i really hate to say it， but… gemini who？ 🏎️💨",
-          "title_original": "i really hate to say it， but… gemini who？ 🏎️💨",
-          "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/alexandr_wang/status/2095249704888197175",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T20:37:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T20:37:12Z",
-      "latest_at": "2026-09-02T20:37:12Z",
-      "primary_item": {
-        "id": "59310af844c3b24aaa4189d33f8e74b7fcb34dc8",
-        "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升 / i really hate to say it， but… gemini who？ 🏎️💨",
-        "title_zh": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
-        "title_en": "i really hate to say it， but… gemini who？ 🏎️💨",
-        "title_original": "i really hate to say it， but… gemini who？ 🏎️💨",
-        "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/alexandr_wang/status/2095249704888197175",
-        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
-      }
-    },
-    {
-      "story_id": "story_bbd546f9bbd7",
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-      "url": "https://x.com/claudeai/status/2095226833293685100",
-      "primary_url": "https://x.com/claudeai/status/2095226833293685100",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8712,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T19:06:19Z",
-      "latest_at": "2026-09-02T19:06:19Z",
-      "primary_item": {
-        "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-        "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-        "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-        "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-        "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/claudeai/status/2095226833293685100",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
-      }
-    },
-    {
-      "story_id": "story_dcd4b8739e9b",
-      "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-      "url": "https://www.aibase.com/news/30799",
-      "primary_url": "https://www.aibase.com/news/30799",
+      "story_id": "story_2c2daa3a2671",
+      "title": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
+      "url": "https://www.aibase.com/news/30810",
+      "primary_url": "https://www.aibase.com/news/30810",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7c47c38d8cca8155637485cc6d7d6f0d2c80ec4a",
-          "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-          "title_zh": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+          "id": "1c8a080d8cbcd30cbbf4c56f8caf7636c769eded",
+          "title": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
+          "title_zh": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
           "title_en": null,
-          "title_original": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+          "title_original": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30799",
+          "url": "https://www.aibase.com/news/30810",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-03T04:39:27.238649Z"
+          "published_at": "2026-09-03T14:35:08.819500Z"
         }
       ],
       "source_count": 1,
@@ -1576,18 +1664,18 @@
       ],
       "items": [
         {
-          "id": "7c47c38d8cca8155637485cc6d7d6f0d2c80ec4a",
-          "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-          "title_zh": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+          "id": "1c8a080d8cbcd30cbbf4c56f8caf7636c769eded",
+          "title": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
+          "title_zh": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
           "title_en": null,
-          "title_original": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+          "title_original": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30799",
+          "url": "https://www.aibase.com/news/30810",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-03T04:39:27.238649Z"
+          "published_at": "2026-09-03T14:35:08.819500Z"
         }
       ],
       "item_count": 1,
@@ -1608,17 +1696,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T04:39:27.238649Z",
-      "latest_at": "2026-09-03T04:39:27.238649Z",
+      "earliest_at": "2026-09-03T14:35:08.819500Z",
+      "latest_at": "2026-09-03T14:35:08.819500Z",
       "primary_item": {
-        "id": "7c47c38d8cca8155637485cc6d7d6f0d2c80ec4a",
-        "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
-        "title_zh": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+        "id": "1c8a080d8cbcd30cbbf4c56f8caf7636c769eded",
+        "title": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
+        "title_zh": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
         "title_en": null,
-        "title_original": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+        "title_original": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30799",
+        "url": "https://www.aibase.com/news/30810",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1626,88 +1714,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     },
     {
-      "story_id": "story_889c8bcd825a",
-      "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？",
-      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-      "primary_url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_edf252f7cb9c",
+      "title": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "primary_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c2620b02650bc64857d143863c0b48e606b2625d",
-          "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？",
-          "title_zh": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-          "title_en": "What is harness engineering and why should I care？",
-          "title_original": "What is harness engineering and why should I care？",
-          "summary": "Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。",
+          "id": "1d46fee4f597d8725792eef4fe9221191a315dd5",
+          "title": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "title_zh": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出",
+          "title_en": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "title_original": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T15:28:05Z"
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "c2620b02650bc64857d143863c0b48e606b2625d",
-          "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？",
-          "title_zh": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-          "title_en": "What is harness engineering and why should I care？",
-          "title_original": "What is harness engineering and why should I care？",
-          "summary": "Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。",
+          "id": "1d46fee4f597d8725792eef4fe9221191a315dd5",
+          "title": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "title_zh": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出",
+          "title_en": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "title_original": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T15:28:05Z"
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
-      "importance_label": "行业动态",
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8266,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8101,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-02T15:28:05Z",
-      "latest_at": "2026-09-02T15:28:05Z",
+      "earliest_at": "2026-09-03T00:00:00Z",
+      "latest_at": "2026-09-03T00:00:00Z",
       "primary_item": {
-        "id": "c2620b02650bc64857d143863c0b48e606b2625d",
-        "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？",
-        "title_zh": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-        "title_en": "What is harness engineering and why should I care？",
-        "title_original": "What is harness engineering and why should I care？",
-        "summary": "Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。",
+        "id": "1d46fee4f597d8725792eef4fe9221191a315dd5",
+        "title": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+        "title_zh": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出",
+        "title_en": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+        "title_original": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T05:15:37.856550Z"
+        "scored_at": "2026-09-03T14:36:09.619218Z"
       }
     }
   ]
