@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:29:36.809530Z",
+  "generated_at": "2026-09-05T00:07:01.244382Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8554,
-      "importance": 0.8554,
-      "importance_score": 0.8554,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9247,
+        "recency": 0.8903,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8536,
-      "importance": 0.8536,
-      "importance_score": 0.8536,
+      "score": 0.8472,
+      "importance": 0.8472,
+      "importance_score": 0.8472,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9646,
+        "recency": 0.9287,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,63 +196,175 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
-      "story_id": "story_e76115a5a946",
-      "title": "Codex CLI 0.153.3",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
+      "story_id": "story_20abcae7f739",
+      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+      "url": "https://www.ithome.com/0/998/630.htm",
+      "primary_url": "https://www.ithome.com/0/998/630.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
+          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/630.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:38Z"
+        },
+        {
+          "id": "6e3c3f09a8c05c32cb18c8a7a0c4747a5f075868",
+          "title": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_zh": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/630.htm",
+          "source": "IT之家",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T22:52:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
+          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/630.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:38Z"
+        },
+        {
+          "id": "6e3c3f09a8c05c32cb18c8a7a0c4747a5f075868",
+          "title": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_zh": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/630.htm",
+          "source": "IT之家",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T22:52:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9823,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T22:52:38Z",
+      "latest_at": "2026-09-04T22:52:38Z",
+      "primary_item": {
+        "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
+        "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+        "title_zh": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+        "title_en": null,
+        "title_original": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+        "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/998/630.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T00:34:13.946576Z"
+      }
+    },
+    {
+      "story_id": "story_e7cbcef29db3",
+      "title": "GitHub Copilot weekly releases — August 31",
+      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+      "primary_url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-          "title": "Codex CLI 0.153.3",
+          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
+          "title": "GitHub Copilot weekly releases — August 31",
           "title_zh": null,
-          "title_en": "Codex CLI 0.153.3",
-          "title_original": "Codex CLI 0.153.3",
+          "title_en": "GitHub Copilot weekly releases — August 31",
+          "title_original": "GitHub Copilot weekly releases — August 31",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
+          "published_at": "2026-09-04T21:05:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-          "title": "Codex CLI 0.153.3",
+          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
+          "title": "GitHub Copilot weekly releases — August 31",
           "title_zh": null,
-          "title_en": "Codex CLI 0.153.3",
-          "title_original": "Codex CLI 0.153.3",
+          "title_en": "GitHub Copilot weekly releases — August 31",
+          "title_original": "GitHub Copilot weekly releases — August 31",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
+          "published_at": "2026-09-04T21:05:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7332,
+        "ai_relevance": 0.91,
+        "recency": 0.9571,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,25 +373,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-04T00:00:00Z",
-      "latest_at": "2026-09-04T00:00:00Z",
+      "earliest_at": "2026-09-04T21:05:01Z",
+      "latest_at": "2026-09-04T21:05:01Z",
       "primary_item": {
-        "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-        "title": "Codex CLI 0.153.3",
+        "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
+        "title": "GitHub Copilot weekly releases — August 31",
         "title_zh": null,
-        "title_en": "Codex CLI 0.153.3",
-        "title_original": "Codex CLI 0.153.3",
+        "title_en": "GitHub Copilot weekly releases — August 31",
+        "title_original": "GitHub Copilot weekly releases — August 31",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
+        "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -356,15 +468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9593,
+        "recency": 0.9236,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -391,90 +503,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
-      "story_id": "story_a4c37a83ad98",
-      "title": "New API endpoint provides privacy-safe star history data",
-      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-      "primary_url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_013a8ac40c9d",
+      "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
+      "url": "https://x.com/sama/status/2096008528834244741",
+      "primary_url": "https://x.com/sama/status/2096008528834244741",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-          "title": "New API endpoint provides privacy-safe star history data",
-          "title_zh": null,
-          "title_en": "New API endpoint provides privacy-safe star history data",
-          "title_original": "New API endpoint provides privacy-safe star history data",
-          "summary": null,
+          "id": "c43da0a6aa7b58f4daeb4b4757c5baf76411a510",
+          "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
+          "title_zh": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+          "title_en": "Now out to all Plus and Business users. Happy building！",
+          "title_original": "Now out to all Plus and Business users. Happy building！",
+          "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:43:56Z"
+          "url": "https://x.com/sama/status/2096008528834244741",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Sam Altman (@sama)"
       ],
       "items": [
         {
-          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-          "title": "New API endpoint provides privacy-safe star history data",
-          "title_zh": null,
-          "title_en": "New API endpoint provides privacy-safe star history data",
-          "title_original": "New API endpoint provides privacy-safe star history data",
-          "summary": null,
+          "id": "c43da0a6aa7b58f4daeb4b4757c5baf76411a510",
+          "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
+          "title_zh": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+          "title_en": "Now out to all Plus and Business users. Happy building！",
+          "title_original": "Now out to all Plus and Business users. Happy building！",
+          "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:43:56Z"
+          "url": "https://x.com/sama/status/2096008528834244741",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
-      "importance_label": "官方更新",
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9336,
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9822,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-04T16:43:56Z",
-      "latest_at": "2026-09-04T16:43:56Z",
+      "earliest_at": "2026-09-04T22:52:29Z",
+      "latest_at": "2026-09-04T22:52:29Z",
       "primary_item": {
-        "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-        "title": "New API endpoint provides privacy-safe star history data",
-        "title_zh": null,
-        "title_en": "New API endpoint provides privacy-safe star history data",
-        "title_original": "New API endpoint provides privacy-safe star history data",
-        "summary": null,
+        "id": "c43da0a6aa7b58f4daeb4b4757c5baf76411a510",
+        "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
+        "title_zh": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+        "title_en": "Now out to all Plus and Business users. Happy building！",
+        "title_original": "Now out to all Plus and Business users. Happy building！",
+        "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/sama/status/2096008528834244741",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -522,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9817,
+        "recency": 0.9453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -556,7 +667,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -604,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.9075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -638,119 +749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
-      }
-    },
-    {
-      "story_id": "story_c5c8bde45089",
-      "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-      "url": "https://www.ithome.com/0/998/248.htm",
-      "primary_url": "https://www.ithome.com/0/998/248.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce2303998489384f999253e9b6e4a340881372b2",
-          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "title_en": null,
-          "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:38:47Z"
-        },
-        {
-          "id": "dfded15a76c25c1a332b73a93cb8daf36ef2ba8a",
-          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
-          "title_zh": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
-          "title_en": null,
-          "title_original": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-04T00:38:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ce2303998489384f999253e9b6e4a340881372b2",
-          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "title_en": null,
-          "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:38:47Z"
-        },
-        {
-          "id": "dfded15a76c25c1a332b73a93cb8daf36ef2ba8a",
-          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
-          "title_zh": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
-          "title_en": null,
-          "title_original": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-04T00:38:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7878,
-      "importance": 0.7878,
-      "importance_score": 0.7878,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.74,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T00:38:47Z",
-      "latest_at": "2026-09-04T00:38:47Z",
-      "primary_item": {
-        "id": "ce2303998489384f999253e9b6e4a340881372b2",
-        "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-        "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-        "title_en": null,
-        "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-        "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/998/248.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -798,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.93,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7438,
+        "recency": 0.7161,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,7 +831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -880,15 +879,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.946,
+        "recency": 0.9108,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,7 +913,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
+      }
+    },
+    {
+      "story_id": "story_a4c37a83ad98",
+      "title": "New API endpoint provides privacy-safe star history data",
+      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+      "primary_url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
+          "title": "New API endpoint provides privacy-safe star history data",
+          "title_zh": null,
+          "title_en": "New API endpoint provides privacy-safe star history data",
+          "title_original": "New API endpoint provides privacy-safe star history data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T16:43:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
+          "title": "New API endpoint provides privacy-safe star history data",
+          "title_zh": null,
+          "title_en": "New API endpoint provides privacy-safe star history data",
+          "title_original": "New API endpoint provides privacy-safe star history data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T16:43:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8988,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T16:43:56Z",
+      "latest_at": "2026-09-04T16:43:56Z",
+      "primary_item": {
+        "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
+        "title": "New API endpoint provides privacy-safe star history data",
+        "title_zh": null,
+        "title_en": "New API endpoint provides privacy-safe star history data",
+        "title_original": "New API endpoint provides privacy-safe star history data",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -962,15 +1044,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9474,
+        "recency": 0.9122,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -996,7 +1078,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -1044,15 +1126,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8664,
+        "recency": 0.8342,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1078,7 +1160,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -1155,15 +1237,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7345,
+        "recency": 0.7072,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1190,7 +1272,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -1238,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7469,
+        "recency": 0.7191,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,7 +1354,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
+      }
+    },
+    {
+      "story_id": "story_c5c8bde45089",
+      "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+      "url": "https://www.ithome.com/0/998/248.htm",
+      "primary_url": "https://www.ithome.com/0/998/248.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce2303998489384f999253e9b6e4a340881372b2",
+          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "title_en": null,
+          "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:38:47Z"
+        },
+        {
+          "id": "dfded15a76c25c1a332b73a93cb8daf36ef2ba8a",
+          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+          "title_zh": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+          "title_en": null,
+          "title_original": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T00:38:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ce2303998489384f999253e9b6e4a340881372b2",
+          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "title_en": null,
+          "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:38:47Z"
+        },
+        {
+          "id": "dfded15a76c25c1a332b73a93cb8daf36ef2ba8a",
+          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+          "title_zh": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+          "title_en": null,
+          "title_original": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T00:38:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7125,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T00:38:47Z",
+      "latest_at": "2026-09-04T00:38:47Z",
+      "primary_item": {
+        "id": "ce2303998489384f999253e9b6e4a340881372b2",
+        "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+        "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+        "title_en": null,
+        "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+        "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/998/248.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -1320,15 +1514,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9448,
+        "recency": 0.9097,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1354,7 +1548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -1431,15 +1625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.861,
+        "recency": 0.829,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1466,7 +1660,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -1514,21 +1708,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7318,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-04T02:29:45Z",
       "latest_at": "2026-09-04T02:29:45Z",
@@ -1548,89 +1741,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
-      }
-    },
-    {
-      "story_id": "story_0967e2ddb4a9",
-      "title": "英伟达两年从零建起近千亿美元股权投资组合",
-      "url": "https://www.ithome.com/0/998/620.htm",
-      "primary_url": "https://www.ithome.com/0/998/620.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "338a000d6f21e45020f80ae7028e2e0535c8423e",
-          "title": "英伟达两年从零建起近千亿美元股权投资组合",
-          "title_zh": "英伟达两年从零建起近千亿美元股权投资组合",
-          "title_en": null,
-          "title_original": "英伟达两年从零建起近千亿美元股权投资组合",
-          "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/620.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T14:59:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "338a000d6f21e45020f80ae7028e2e0535c8423e",
-          "title": "英伟达两年从零建起近千亿美元股权投资组合",
-          "title_zh": "英伟达两年从零建起近千亿美元股权投资组合",
-          "title_en": null,
-          "title_original": "英伟达两年从零建起近千亿美元股权投资组合",
-          "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/620.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T14:59:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9104,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T14:59:33Z",
-      "latest_at": "2026-09-04T14:59:33Z",
-      "primary_item": {
-        "id": "338a000d6f21e45020f80ae7028e2e0535c8423e",
-        "title": "英伟达两年从零建起近千亿美元股权投资组合",
-        "title_zh": "英伟达两年从零建起近千亿美元股权投资组合",
-        "title_en": null,
-        "title_original": "英伟达两年从零建起近千亿美元股权投资组合",
-        "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/998/620.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     },
     {
@@ -1678,15 +1789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7345,
+        "recency": 0.7072,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1712,89 +1823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
-      }
-    },
-    {
-      "story_id": "story_1ba27897b662",
-      "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-      "url": "https://www.aibase.com/news/30849",
-      "primary_url": "https://www.aibase.com/news/30849",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "title_en": null,
-          "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30849",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T17:24:52.008268Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "title_en": null,
-          "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30849",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T17:24:52.008268Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9428,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T17:24:52.008268Z",
-      "latest_at": "2026-09-04T17:24:52.008268Z",
-      "primary_item": {
-        "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-        "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-        "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-        "title_en": null,
-        "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30849",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T21:59:01.437841Z"
+        "scored_at": "2026-09-05T00:34:13.946576Z"
       }
     }
   ]
