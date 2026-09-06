@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T00:58:41.635026Z",
+  "generated_at": "2026-09-06T05:58:17.728717Z",
   "window_hours": 24,
   "total_items": 16,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9053,
+        "recency": 0.8423,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8204,
+        "recency": 0.7633,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -224,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
@@ -301,15 +301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8258,
+        "recency": 0.7683,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -336,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
@@ -384,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9099,
+        "recency": 0.8466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -418,7 +418,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
@@ -466,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9514,
+        "recency": 0.8852,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -500,30 +500,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
-      "story_id": "story_a23ce047f1f9",
-      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "story_id": "story_bf4a1e858a01",
+      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "primary_url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
+          "published_at": "2026-09-05T07:41:03Z"
         }
       ],
       "source_count": 1,
@@ -532,49 +532,48 @@
       ],
       "items": [
         {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
+          "published_at": "2026-09-05T07:41:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8475,
+        "recency": 0.7248,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-05T13:31:04Z",
-      "latest_at": "2026-09-05T13:31:04Z",
+      "earliest_at": "2026-09-05T07:41:03Z",
+      "latest_at": "2026-09-05T07:41:03Z",
       "primary_item": {
-        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-        "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+        "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+        "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+        "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+        "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+        "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+        "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+        "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
@@ -582,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
@@ -659,15 +658,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7862,
-      "importance": 0.7862,
-      "importance_score": 0.7862,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7813,
+        "recency": 0.7269,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -694,7 +693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
@@ -742,21 +741,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8251,
+        "recency": 0.7677,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-05T11:39:52Z",
       "latest_at": "2026-09-05T11:39:52Z",
@@ -776,7 +774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
@@ -824,15 +822,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.782,
+        "recency": 0.7276,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -857,30 +855,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
-      "story_id": "story_bf4a1e858a01",
-      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-      "primary_url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "story_id": "story_a23ce047f1f9",
+      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-          "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T07:41:03Z"
+          "published_at": "2026-09-05T13:31:04Z"
         }
       ],
       "source_count": 1,
@@ -889,49 +887,48 @@
       ],
       "items": [
         {
-          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-          "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T07:41:03Z"
+          "published_at": "2026-09-05T13:31:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.7885,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-05T07:41:03Z",
-      "latest_at": "2026-09-05T07:41:03Z",
+      "earliest_at": "2026-09-05T13:31:04Z",
+      "latest_at": "2026-09-05T13:31:04Z",
       "primary_item": {
-        "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-        "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-        "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-        "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-        "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-        "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
+        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+        "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+        "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+        "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+        "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
@@ -939,109 +936,138 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
-      "story_id": "story_6b663a3b490f",
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=49581240",
-      "primary_url": "https://news.ycombinator.com/item?id=49581240",
+      "story_id": "story_2c7dd97ccc7e",
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://news.ycombinator.com/item?id=49582582",
+      "primary_url": "https://news.ycombinator.com/item?id=49582582",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "GPT-6 Astra on robot arms",
           "title_zh": null,
-          "title_en": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "title_original": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "title_en": "GPT-6 Astra on robot arms",
+          "title_original": "GPT-6 Astra on robot arms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49581240",
+          "url": "https://news.ycombinator.com/item?id=49582582",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-06T00:59:04.560000Z"
+          "published_at": "2026-09-06T05:58:44.034000Z"
         },
         {
-          "id": "7169d8ff80c698e3e571469b77e94308d5fd557b",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "title_zh": null,
-          "title_en": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "title_original": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
+          "title": "安装在机械臂上的GPT-6 Astra",
+          "title_zh": "安装在机械臂上的GPT-6 Astra",
+          "title_en": null,
+          "title_original": "安装在机械臂上的GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "openai.robocurve.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T04:56:10.649000Z"
+        },
+        {
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
+          "title_zh": "安装在机械臂上的GPT-6 Astra",
+          "title_en": "GPT-6 Astra on robot arms",
+          "title_original": "GPT-6 Astra on robot arms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.robocurve.org/gpt-6-astra",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-05T22:15:52Z"
+          "published_at": "2026-09-06T01:52:45Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "hackernews"
+        "hackernews",
+        "openai.robocurve.org"
       ],
       "items": [
         {
-          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "GPT-6 Astra on robot arms",
           "title_zh": null,
-          "title_en": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "title_original": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "title_en": "GPT-6 Astra on robot arms",
+          "title_original": "GPT-6 Astra on robot arms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49581240",
+          "url": "https://news.ycombinator.com/item?id=49582582",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-06T00:59:04.560000Z"
+          "published_at": "2026-09-06T05:58:44.034000Z"
         },
         {
-          "id": "7169d8ff80c698e3e571469b77e94308d5fd557b",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "title_zh": null,
-          "title_en": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "title_original": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
+          "title": "安装在机械臂上的GPT-6 Astra",
+          "title_zh": "安装在机械臂上的GPT-6 Astra",
+          "title_en": null,
+          "title_original": "安装在机械臂上的GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "openai.robocurve.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T04:56:10.649000Z"
+        },
+        {
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
+          "title_zh": "安装在机械臂上的GPT-6 Astra",
+          "title_en": "GPT-6 Astra on robot arms",
+          "title_original": "GPT-6 Astra on robot arms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.robocurve.org/gpt-6-astra",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-05T22:15:52Z"
+          "published_at": "2026-09-06T01:52:45Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T22:15:52Z",
-      "latest_at": "2026-09-06T00:59:04.560000Z",
+      "earliest_at": "2026-09-06T01:52:45Z",
+      "latest_at": "2026-09-06T05:58:44.034000Z",
       "primary_item": {
-        "id": "de508dd54fc875df82a902a31b0d7038e329a518",
-        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+        "title": "GPT-6 Astra on robot arms",
         "title_zh": null,
-        "title_en": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-        "title_original": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "title_en": "GPT-6 Astra on robot arms",
+        "title_original": "GPT-6 Astra on robot arms",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49581240",
+        "url": "https://news.ycombinator.com/item?id=49582582",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1049,7 +1075,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
@@ -1126,15 +1152,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9625,
+        "recency": 0.8956,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1159,7 +1185,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
@@ -1265,15 +1291,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8089,
+        "recency": 0.7527,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1298,7 +1324,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
+      }
+    },
+    {
+      "story_id": "story_6b663a3b490f",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=49581240",
+      "primary_url": "https://news.ycombinator.com/item?id=49581240",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "title_zh": null,
+          "title_en": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "title_original": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49581240",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T00:59:04.560000Z"
+        },
+        {
+          "id": "7169d8ff80c698e3e571469b77e94308d5fd557b",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "title_zh": null,
+          "title_en": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "title_original": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T22:15:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "title_zh": null,
+          "title_en": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "title_original": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49581240",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T00:59:04.560000Z"
+        },
+        {
+          "id": "7169d8ff80c698e3e571469b77e94308d5fd557b",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "title_zh": null,
+          "title_en": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "title_original": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T22:15:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9305,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T22:15:52Z",
+      "latest_at": "2026-09-06T00:59:04.560000Z",
+      "primary_item": {
+        "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "title_zh": null,
+        "title_en": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "title_original": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49581240",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
@@ -1324,7 +1460,7 @@
           "published_at": "2026-09-05T22:57:48.647000Z"
         },
         {
-          "id": "c46c4730621034b7751ac0cf57c7c030201f890e",
+          "id": "137de3428944d9b069466dd685f194a57994c0b8",
           "title": "America's Two Largest School Districts Impose AI Moratoriums",
           "title_zh": null,
           "title_en": "America's Two Largest School Districts Impose AI Moratoriums",
@@ -1332,15 +1468,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-05T21:43:22Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1359,7 +1495,7 @@
           "published_at": "2026-09-05T22:57:48.647000Z"
         },
         {
-          "id": "c46c4730621034b7751ac0cf57c7c030201f890e",
+          "id": "137de3428944d9b069466dd685f194a57994c0b8",
           "title": "America's Two Largest School Districts Impose AI Moratoriums",
           "title_zh": null,
           "title_en": "America's Two Largest School Districts Impose AI Moratoriums",
@@ -1367,23 +1503,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-05T21:43:22Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9713,
+        "recency": 0.9038,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1408,7 +1544,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     },
     {
@@ -1485,15 +1621,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.5131,
+      "importance": 0.5131,
+      "importance_score": 0.5131,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8796,
+        "recency": 0.8184,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,117 +1654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
-      }
-    },
-    {
-      "story_id": "story_3a29e4c9849f",
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "url": "https://news.ycombinator.com/item?id=49572875",
-      "primary_url": "https://news.ycombinator.com/item?id=49572875",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "cdf723d245a48d3b23b1834a77155cce2b59bec0",
-          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_original": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49572875",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T08:54:00.421000Z"
-        },
-        {
-          "id": "b0628b8c29ccab104bb3e83db1159f4473e4fc8e",
-          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_original": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T03:38:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cdf723d245a48d3b23b1834a77155cce2b59bec0",
-          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_original": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49572875",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T08:54:00.421000Z"
-        },
-        {
-          "id": "b0628b8c29ccab104bb3e83db1159f4473e4fc8e",
-          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_original": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T03:38:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5085,
-      "importance": 0.5085,
-      "importance_score": 0.5085,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7928,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T03:38:56Z",
-      "latest_at": "2026-09-05T08:54:00.421000Z",
-      "primary_item": {
-        "id": "cdf723d245a48d3b23b1834a77155cce2b59bec0",
-        "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-        "title_zh": null,
-        "title_en": "GPT-6 Astra in code review: Gains, privacy, and cost",
-        "title_original": "GPT-6 Astra in code review: Gains, privacy, and cost",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49572875",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-06T01:18:02.235050Z"
+        "scored_at": "2026-09-06T06:16:22.588397Z"
       }
     }
   ]
