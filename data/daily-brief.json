@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:11:14.660026Z",
+  "generated_at": "2026-09-11T04:41:48.279696Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8885,
+        "recency": 0.8325,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.8452,
-      "importance_score": 0.8452,
+      "score": 0.8343,
+      "importance": 0.8343,
+      "importance_score": 0.8343,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9622,
+        "recency": 0.9016,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9613,
+        "recency": 0.9007,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8885,
+        "recency": 0.8325,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -409,15 +409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9544,
+        "recency": 0.8943,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -492,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9461,
+        "recency": 0.8864,
         "story_heat": 0.0
       },
       "category": "official",
@@ -527,7 +527,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
+      }
+    },
+    {
+      "story_id": "story_ea7ced4827f0",
+      "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+      "url": "https://www.aibase.com/news/30980",
+      "primary_url": "https://www.aibase.com/news/30980",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
+          "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "title_en": null,
+          "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30980",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T04:41:48.279696Z"
+        },
+        {
+          "id": "470422fef94d4eac1cd1ce5ab8f2d9a51a2fcb1a",
+          "title": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "title_zh": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "title_en": null,
+          "title_original": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30974",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T04:41:48.279696Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
+          "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "title_en": null,
+          "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30980",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T04:41:48.279696Z"
+        },
+        {
+          "id": "470422fef94d4eac1cd1ce5ab8f2d9a51a2fcb1a",
+          "title": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "title_zh": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "title_en": null,
+          "title_original": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30974",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T04:41:48.279696Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T04:41:48.279696Z",
+      "latest_at": "2026-09-11T04:41:48.279696Z",
+      "primary_item": {
+        "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
+        "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+        "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+        "title_en": null,
+        "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30980",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -575,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8758,
+        "recency": 0.8205,
         "story_heat": 0.0
       },
       "category": "official",
@@ -610,7 +721,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -687,15 +798,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8957,
+        "recency": 0.8393,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -722,7 +833,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -770,15 +881,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7861,
+        "recency": 0.7365,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -804,7 +915,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
+      }
+    },
+    {
+      "story_id": "story_6e2c9c3d89aa",
+      "title": "谷歌上线Gemini Windows桌面应用，支持快捷键一键唤醒AI助手",
+      "url": "https://www.aibase.com/news/30976",
+      "primary_url": "https://www.aibase.com/news/30976",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bf691e90f5271c8d50afbd93b9535f2c124ea35b",
+          "title": "谷歌上线Gemini Windows桌面应用，支持快捷键一键唤醒AI助手",
+          "title_zh": "谷歌上线Gemini Windows桌面应用，支持快捷键一键唤醒AI助手",
+          "title_en": null,
+          "title_original": "谷歌上线Gemini Windows桌面应用，支持快捷键一键唤醒AI助手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30976",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T04:41:48.279696Z"
+        },
+        {
+          "id": "548d61db5eeb3dce566ae2e0116205b8f1b3a11e",
+          "title": "谷歌推出Gemini Windows桌面应用，支持快捷键唤起AI助手",
+          "title_zh": "谷歌推出Gemini Windows桌面应用，支持快捷键唤起AI助手",
+          "title_en": null,
+          "title_original": "谷歌推出Gemini Windows桌面应用，支持快捷键唤起AI助手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.36kr.com/newsflashes/3978219278318592",
+          "source": "36氪快讯",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T23:33:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪快讯",
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bf691e90f5271c8d50afbd93b9535f2c124ea35b",
+          "title": "谷歌上线Gemini Windows桌面应用，支持快捷键一键唤醒AI助手",
+          "title_zh": "谷歌上线Gemini Windows桌面应用，支持快捷键一键唤醒AI助手",
+          "title_en": null,
+          "title_original": "谷歌上线Gemini Windows桌面应用，支持快捷键一键唤醒AI助手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30976",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T04:41:48.279696Z"
+        },
+        {
+          "id": "548d61db5eeb3dce566ae2e0116205b8f1b3a11e",
+          "title": "谷歌推出Gemini Windows桌面应用，支持快捷键唤起AI助手",
+          "title_zh": "谷歌推出Gemini Windows桌面应用，支持快捷键唤起AI助手",
+          "title_en": null,
+          "title_original": "谷歌推出Gemini Windows桌面应用，支持快捷键唤起AI助手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.36kr.com/newsflashes/3978219278318592",
+          "source": "36氪快讯",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-10T23:33:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T23:33:55Z",
+      "latest_at": "2026-09-11T04:41:48.279696Z",
+      "primary_item": {
+        "id": "bf691e90f5271c8d50afbd93b9535f2c124ea35b",
+        "title": "谷歌上线Gemini Windows桌面应用，支持快捷键一键唤醒AI助手",
+        "title_zh": "谷歌上线Gemini Windows桌面应用，支持快捷键一键唤醒AI助手",
+        "title_en": null,
+        "title_original": "谷歌上线Gemini Windows桌面应用，支持快捷键一键唤醒AI助手",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30976",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -852,15 +1075,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8767,
+        "recency": 0.8215,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -886,119 +1109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
-      }
-    },
-    {
-      "story_id": "story_a15825905680",
-      "title": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
-      "url": "https://www.aibase.com/news/30958",
-      "primary_url": "https://www.aibase.com/news/30958",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "21aa95205243255abdef400fc7e6e6ebe54d830c",
-          "title": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
-          "title_zh": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
-          "title_en": null,
-          "title_original": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30958",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T14:26:58.855036Z"
-        },
-        {
-          "id": "2ebc75a3e3d350f9ffca3e2d4bcd58252c219d2d",
-          "title": "蚂蚁集团 CEO 韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建设",
-          "title_zh": "蚂蚁集团 CEO 韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建设",
-          "title_en": null,
-          "title_original": "蚂蚁集团 CEO 韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建设",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/000/917.htm",
-          "source": "IT之家",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-10T09:29:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家"
-      ],
-      "items": [
-        {
-          "id": "21aa95205243255abdef400fc7e6e6ebe54d830c",
-          "title": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
-          "title_zh": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
-          "title_en": null,
-          "title_original": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30958",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T14:26:58.855036Z"
-        },
-        {
-          "id": "2ebc75a3e3d350f9ffca3e2d4bcd58252c219d2d",
-          "title": "蚂蚁集团 CEO 韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建设",
-          "title_zh": "蚂蚁集团 CEO 韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建设",
-          "title_en": null,
-          "title_original": "蚂蚁集团 CEO 韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建设",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/000/917.htm",
-          "source": "IT之家",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-10T09:29:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8688,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T09:29:22Z",
-      "latest_at": "2026-09-10T14:26:58.855036Z",
-      "primary_item": {
-        "id": "21aa95205243255abdef400fc7e6e6ebe54d830c",
-        "title": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
-        "title_zh": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
-        "title_en": null,
-        "title_original": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30958",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -1046,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9073,
+        "recency": 0.8501,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1081,7 +1192,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -1129,15 +1240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9077,
+        "recency": 0.8505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1163,7 +1274,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -1211,15 +1322,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7802,
+        "recency": 0.731,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1246,7 +1357,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -1294,21 +1405,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8386,
+        "recency": 0.7858,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-10T12:00:00Z",
       "latest_at": "2026-09-10T12:00:00Z",
@@ -1328,7 +1438,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -1376,21 +1486,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7947,
+        "recency": 0.7446,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-10T08:16:13Z",
       "latest_at": "2026-09-10T08:16:13Z",
@@ -1410,7 +1519,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
+      }
+    },
+    {
+      "story_id": "story_5026558c852c",
+      "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+      "url": "https://x.com/elonmusk/status/2098217236771295567",
+      "primary_url": "https://x.com/elonmusk/status/2098217236771295567",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f9183098768f67ec68f0e13db499958386d6c247",
+          "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+          "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+          "title_en": "Grok @Bot summary of SpaceX CFO talk",
+          "title_original": "Grok @Bot summary of SpaceX CFO talk",
+          "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/elonmusk/status/2098217236771295567",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T01:09:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "f9183098768f67ec68f0e13db499958386d6c247",
+          "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+          "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+          "title_en": "Grok @Bot summary of SpaceX CFO talk",
+          "title_original": "Grok @Bot summary of SpaceX CFO talk",
+          "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/elonmusk/status/2098217236771295567",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T01:09:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9501,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T01:09:06Z",
+      "latest_at": "2026-09-11T01:09:06Z",
+      "primary_item": {
+        "id": "f9183098768f67ec68f0e13db499958386d6c247",
+        "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+        "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+        "title_en": "Grok @Bot summary of SpaceX CFO talk",
+        "title_original": "Grok @Bot summary of SpaceX CFO talk",
+        "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/elonmusk/status/2098217236771295567",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -1458,15 +1648,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7687,
+        "recency": 0.7202,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1491,7 +1681,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     },
     {
@@ -1539,15 +1729,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8862,
+        "recency": 0.8303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1572,171 +1762,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
-      }
-    },
-    {
-      "story_id": "story_8435ae56fbea",
-      "title": "MAI-Code-1-Flash deprecated",
-      "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
-          "title": "MAI-Code-1-Flash deprecated",
-          "title_zh": null,
-          "title_en": "MAI-Code-1-Flash deprecated",
-          "title_original": "MAI-Code-1-Flash deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T16:54:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
-          "title": "MAI-Code-1-Flash deprecated",
-          "title_zh": null,
-          "title_en": "MAI-Code-1-Flash deprecated",
-          "title_original": "MAI-Code-1-Flash deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T16:54:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9001,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T16:54:01Z",
-      "latest_at": "2026-09-10T16:54:01Z",
-      "primary_item": {
-        "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
-        "title": "MAI-Code-1-Flash deprecated",
-        "title_zh": null,
-        "title_en": "MAI-Code-1-Flash deprecated",
-        "title_original": "MAI-Code-1-Flash deprecated",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
-      }
-    },
-    {
-      "story_id": "story_56692de3b9bc",
-      "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作 / Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-      "url": "https://x.com/GoogleAI/status/2098072879480947085",
-      "primary_url": "https://x.com/GoogleAI/status/2098072879480947085",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69b006d874e21229a70780aecccc9d837c74fe04",
-          "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作 / Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "title_zh": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-          "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "title_original": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2098072879480947085",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:35:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "69b006d874e21229a70780aecccc9d837c74fe04",
-          "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作 / Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "title_zh": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-          "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "title_original": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2098072879480947085",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:35:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8833,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-10T15:35:29Z",
-      "latest_at": "2026-09-10T15:35:29Z",
-      "primary_item": {
-        "id": "69b006d874e21229a70780aecccc9d837c74fe04",
-        "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作 / Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-        "title_zh": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-        "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-        "title_original": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-        "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GoogleAI/status/2098072879480947085",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T00:46:40.248839Z"
+        "scored_at": "2026-09-11T05:19:27.968808Z"
       }
     }
   ]
