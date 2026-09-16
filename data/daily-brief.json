@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:02:47.386434Z",
+  "generated_at": "2026-09-16T11:35:13.773694Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -55,8 +55,8 @@
         },
         {
           "id": "51f2aedc3da6daf7a24b962f3bc92bee2cc9a453",
-          "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "title_zh": null,
+          "title": "Gemini3.8直播和3.8直播延伸思考 / Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "title_zh": "Gemini3.8直播和3.8直播延伸思考",
           "title_en": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
           "title_original": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
           "summary": null,
@@ -120,8 +120,8 @@
         },
         {
           "id": "51f2aedc3da6daf7a24b962f3bc92bee2cc9a453",
-          "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "title_zh": null,
+          "title": "Gemini3.8直播和3.8直播延伸思考 / Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "title_zh": "Gemini3.8直播和3.8直播延伸思考",
           "title_en": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
           "title_original": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
           "summary": null,
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8963,
-      "importance": 0.8963,
-      "importance_score": 0.8963,
+      "score": 0.8848,
+      "importance": 0.8848,
+      "importance_score": 0.8848,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8295,
+        "recency": 0.7657,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,12 +171,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
       "story_id": "story_3a48419d9a0c",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "title": "您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "source": "Hugging Face Blog",
@@ -184,8 +184,8 @@
       "sources": [
         {
           "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-          "title": "Your Agent Aced the Task. Will It Do It Again?",
-          "title_zh": null,
+          "title": "您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?",
+          "title_zh": "您的代理人完成了任务。它会再次这样做吗？",
           "title_en": "Your Agent Aced the Task. Will It Do It Again?",
           "title_original": "Your Agent Aced the Task. Will It Do It Again?",
           "summary": null,
@@ -204,8 +204,8 @@
       "items": [
         {
           "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-          "title": "Your Agent Aced the Task. Will It Do It Again?",
-          "title_zh": null,
+          "title": "您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?",
+          "title_zh": "您的代理人完成了任务。它会再次这样做吗？",
           "title_en": "Your Agent Aced the Task. Will It Do It Again?",
           "title_original": "Your Agent Aced the Task. Will It Do It Again?",
           "summary": null,
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8166,
+        "recency": 0.7538,
         "story_heat": 0.0
       },
       "category": "official",
@@ -240,8 +240,8 @@
       "latest_at": "2026-09-15T16:00:44Z",
       "primary_item": {
         "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-        "title": "Your Agent Aced the Task. Will It Do It Again?",
-        "title_zh": null,
+        "title": "您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?",
+        "title_zh": "您的代理人完成了任务。它会再次这样做吗？",
         "title_en": "Your Agent Aced the Task. Will It Do It Again?",
         "title_original": "Your Agent Aced the Task. Will It Do It Again?",
         "summary": null,
@@ -254,12 +254,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
       "story_id": "story_47bd15dd2064",
-      "title": "GitHub Copilot suggests custom properties definitions",
+      "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
       "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
       "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
       "source": "GitHub Changelog",
@@ -267,8 +267,8 @@
       "sources": [
         {
           "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot suggests custom properties definitions",
-          "title_zh": null,
+          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+          "title_zh": "GitHub Copilot 建议自定义属性定义",
           "title_en": "GitHub Copilot suggests custom properties definitions",
           "title_original": "GitHub Copilot suggests custom properties definitions",
           "summary": null,
@@ -287,8 +287,8 @@
       "items": [
         {
           "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot suggests custom properties definitions",
-          "title_zh": null,
+          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+          "title_zh": "GitHub Copilot 建议自定义属性定义",
           "title_en": "GitHub Copilot suggests custom properties definitions",
           "title_original": "GitHub Copilot suggests custom properties definitions",
           "summary": null,
@@ -302,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8542,
+        "recency": 0.7885,
         "story_heat": 0.0
       },
       "category": "official",
@@ -323,8 +323,8 @@
       "latest_at": "2026-09-15T19:07:47Z",
       "primary_item": {
         "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-        "title": "GitHub Copilot suggests custom properties definitions",
-        "title_zh": null,
+        "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+        "title_zh": "GitHub Copilot 建议自定义属性定义",
         "title_en": "GitHub Copilot suggests custom properties definitions",
         "title_original": "GitHub Copilot suggests custom properties definitions",
         "summary": null,
@@ -337,26 +337,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
-      "story_id": "story_e1c18e045b84",
-      "title": "AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+      "story_id": "story_24b1574f3701",
+      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-          "title": "AI for Societal Impact",
-          "title_zh": null,
-          "title_en": "AI for Societal Impact",
-          "title_original": "AI for Societal Impact",
+          "id": "14060c2571c717161b27bfaa69b30841c601742d",
+          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
+          "title_zh": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
+          "title_en": "AI for everyone in every language",
+          "title_original": "AI for everyone in every language",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -369,14 +369,14 @@
       ],
       "items": [
         {
-          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-          "title": "AI for Societal Impact",
-          "title_zh": null,
-          "title_en": "AI for Societal Impact",
-          "title_original": "AI for Societal Impact",
+          "id": "14060c2571c717161b27bfaa69b30841c601742d",
+          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
+          "title_zh": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
+          "title_en": "AI for everyone in every language",
+          "title_original": "AI for everyone in every language",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -385,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8164,
+        "recency": 0.7536,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,14 +405,14 @@
       "earliest_at": "2026-09-15T16:00:00Z",
       "latest_at": "2026-09-15T16:00:00Z",
       "primary_item": {
-        "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-        "title": "AI for Societal Impact",
-        "title_zh": null,
-        "title_en": "AI for Societal Impact",
-        "title_original": "AI for Societal Impact",
+        "id": "14060c2571c717161b27bfaa69b30841c601742d",
+        "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
+        "title_zh": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
+        "title_en": "AI for everyone in every language",
+        "title_original": "AI for everyone in every language",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       },
@@ -420,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
@@ -497,15 +497,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9231,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -532,12 +532,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
       "story_id": "story_9d2155aa5b6f",
-      "title": "Enforce GitHub Advanced Security configurations",
+      "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
       "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
       "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
       "source": "GitHub Changelog",
@@ -545,8 +545,8 @@
       "sources": [
         {
           "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "Enforce GitHub Advanced Security configurations",
-          "title_zh": null,
+          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
+          "title_zh": "强制执行 GitHub 高级安全配置",
           "title_en": "Enforce GitHub Advanced Security configurations",
           "title_original": "Enforce GitHub Advanced Security configurations",
           "summary": null,
@@ -565,8 +565,8 @@
       "items": [
         {
           "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "Enforce GitHub Advanced Security configurations",
-          "title_zh": null,
+          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
+          "title_zh": "强制执行 GitHub 高级安全配置",
           "title_en": "Enforce GitHub Advanced Security configurations",
           "title_original": "Enforce GitHub Advanced Security configurations",
           "summary": null,
@@ -580,15 +580,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8591,
+        "recency": 0.7931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -601,8 +601,8 @@
       "latest_at": "2026-09-15T19:31:58Z",
       "primary_item": {
         "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-        "title": "Enforce GitHub Advanced Security configurations",
-        "title_zh": null,
+        "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
+        "title_zh": "强制执行 GitHub 高级安全配置",
         "title_en": "Enforce GitHub Advanced Security configurations",
         "title_original": "Enforce GitHub Advanced Security configurations",
         "summary": null,
@@ -615,26 +615,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
-      "story_id": "story_800598bf50d8",
-      "title": "Building AI to accelerate science and improve lives",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+      "story_id": "story_e1c18e045b84",
+      "title": "人工智能的社会影响 / AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-          "title": "Building AI to accelerate science and improve lives",
-          "title_zh": null,
-          "title_en": "Building AI to accelerate science and improve lives",
-          "title_original": "Building AI to accelerate science and improve lives",
+          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
+          "title": "人工智能的社会影响 / AI for Societal Impact",
+          "title_zh": "人工智能的社会影响",
+          "title_en": "AI for Societal Impact",
+          "title_original": "AI for Societal Impact",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -647,14 +647,14 @@
       ],
       "items": [
         {
-          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-          "title": "Building AI to accelerate science and improve lives",
-          "title_zh": null,
-          "title_en": "Building AI to accelerate science and improve lives",
-          "title_original": "Building AI to accelerate science and improve lives",
+          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
+          "title": "人工智能的社会影响 / AI for Societal Impact",
+          "title_zh": "人工智能的社会影响",
+          "title_en": "AI for Societal Impact",
+          "title_original": "AI for Societal Impact",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -663,15 +663,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8164,
+        "recency": 0.7536,
         "story_heat": 0.0
       },
       "category": "official",
@@ -683,14 +683,14 @@
       "earliest_at": "2026-09-15T16:00:00Z",
       "latest_at": "2026-09-15T16:00:00Z",
       "primary_item": {
-        "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-        "title": "Building AI to accelerate science and improve lives",
-        "title_zh": null,
-        "title_en": "Building AI to accelerate science and improve lives",
-        "title_original": "Building AI to accelerate science and improve lives",
+        "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
+        "title": "人工智能的社会影响 / AI for Societal Impact",
+        "title_zh": "人工智能的社会影响",
+        "title_en": "AI for Societal Impact",
+        "title_original": "AI for Societal Impact",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       },
@@ -698,7 +698,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
@@ -775,15 +775,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7684,
+        "recency": 0.7093,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -810,119 +810,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
-      }
-    },
-    {
-      "story_id": "story_37bd0d5d25f4",
-      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-      "primary_url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T09:04:36Z"
-        },
-        {
-          "id": "73d86ed9c313e04442fff39f6d2ba15f03cd12c0",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "title_en": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "title_original": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T09:04:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T09:04:36Z"
-        },
-        {
-          "id": "73d86ed9c313e04442fff39f6d2ba15f03cd12c0",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "title_en": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "title_original": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T09:04:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7387,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T09:04:36Z",
-      "latest_at": "2026-09-15T09:04:36Z",
-      "primary_item": {
-        "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
-        "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-        "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-        "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-        "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-        "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
@@ -970,21 +858,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8128,
+        "recency": 0.7503,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-15T15:41:25Z",
       "latest_at": "2026-09-15T15:41:25Z",
@@ -1004,7 +891,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
@@ -1052,15 +939,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8258,
+        "recency": 0.7623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1087,26 +974,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
-      "story_id": "story_24b1574f3701",
-      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "story_id": "story_800598bf50d8",
+      "title": "构建人工智能以加速科学发展并改善生活 / Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14060c2571c717161b27bfaa69b30841c601742d",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-          "title_zh": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-          "title_en": "AI for everyone in every language",
-          "title_original": "AI for everyone in every language",
+          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
+          "title": "构建人工智能以加速科学发展并改善生活 / Building AI to accelerate science and improve lives",
+          "title_zh": "构建人工智能以加速科学发展并改善生活",
+          "title_en": "Building AI to accelerate science and improve lives",
+          "title_original": "Building AI to accelerate science and improve lives",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1119,14 +1006,14 @@
       ],
       "items": [
         {
-          "id": "14060c2571c717161b27bfaa69b30841c601742d",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-          "title_zh": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-          "title_en": "AI for everyone in every language",
-          "title_original": "AI for everyone in every language",
+          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
+          "title": "构建人工智能以加速科学发展并改善生活 / Building AI to accelerate science and improve lives",
+          "title_zh": "构建人工智能以加速科学发展并改善生活",
+          "title_en": "Building AI to accelerate science and improve lives",
+          "title_original": "Building AI to accelerate science and improve lives",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1135,15 +1022,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8164,
+        "recency": 0.7536,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1155,14 +1042,14 @@
       "earliest_at": "2026-09-15T16:00:00Z",
       "latest_at": "2026-09-15T16:00:00Z",
       "primary_item": {
-        "id": "14060c2571c717161b27bfaa69b30841c601742d",
-        "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-        "title_zh": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-        "title_en": "AI for everyone in every language",
-        "title_original": "AI for everyone in every language",
+        "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
+        "title": "构建人工智能以加速科学发展并改善生活 / Building AI to accelerate science and improve lives",
+        "title_zh": "构建人工智能以加速科学发展并改善生活",
+        "title_en": "Building AI to accelerate science and improve lives",
+        "title_original": "Building AI to accelerate science and improve lives",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       },
@@ -1170,30 +1057,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
-      "story_id": "story_8489d5c88f74",
-      "title": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
-      "url": "https://www.aibase.com/news/31073",
-      "primary_url": "https://www.aibase.com/news/31073",
+      "story_id": "story_85ca850a8a98",
+      "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+      "url": "https://www.aibase.com/news/31097",
+      "primary_url": "https://www.aibase.com/news/31097",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c4b7d648b3185fe251e14ac07102f9f948366294",
-          "title": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
-          "title_zh": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+          "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
+          "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
           "title_en": null,
-          "title_original": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+          "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31073",
+          "url": "https://www.aibase.com/news/31097",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:02:47.386434Z"
+          "published_at": "2026-09-16T11:35:13.773694Z"
         }
       ],
       "source_count": 1,
@@ -1202,18 +1089,18 @@
       ],
       "items": [
         {
-          "id": "c4b7d648b3185fe251e14ac07102f9f948366294",
-          "title": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
-          "title_zh": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+          "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
+          "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
           "title_en": null,
-          "title_original": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+          "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31073",
+          "url": "https://www.aibase.com/news/31097",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:02:47.386434Z"
+          "published_at": "2026-09-16T11:35:13.773694Z"
         }
       ],
       "item_count": 1,
@@ -1234,17 +1121,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T06:02:47.386434Z",
-      "latest_at": "2026-09-16T06:02:47.386434Z",
+      "earliest_at": "2026-09-16T11:35:13.773694Z",
+      "latest_at": "2026-09-16T11:35:13.773694Z",
       "primary_item": {
-        "id": "c4b7d648b3185fe251e14ac07102f9f948366294",
-        "title": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
-        "title_zh": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+        "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
+        "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+        "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
         "title_en": null,
-        "title_original": "Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合",
+        "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31073",
+        "url": "https://www.aibase.com/news/31097",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1252,7 +1139,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
@@ -1300,15 +1187,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.882,
+        "recency": 0.8141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1333,7 +1220,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
@@ -1381,15 +1268,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8699,
+        "recency": 0.803,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1414,7 +1301,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
+      }
+    },
+    {
+      "story_id": "story_d140633e4958",
+      "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+      "url": "https://www.aibase.com/news/31099",
+      "primary_url": "https://www.aibase.com/news/31099",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
+          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_en": null,
+          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31099",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T11:35:13.773694Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
+          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_en": null,
+          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31099",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T11:35:13.773694Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T11:35:13.773694Z",
+      "latest_at": "2026-09-16T11:35:13.773694Z",
+      "primary_item": {
+        "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
+        "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "title_en": null,
+        "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31099",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
@@ -1462,15 +1431,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7818,
+        "recency": 0.7217,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1497,30 +1466,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
-      "story_id": "story_23bd01795005",
-      "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-      "url": "https://www.aibase.com/news/31068",
-      "primary_url": "https://www.aibase.com/news/31068",
+      "story_id": "story_c040e7b4b4c9",
+      "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+      "url": "https://www.aibase.com/news/31092",
+      "primary_url": "https://www.aibase.com/news/31092",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "33ee95b39ec920aa173bac762ec02e52efb29daa",
-          "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-          "title_zh": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
+          "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
+          "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+          "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
           "title_en": null,
-          "title_original": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
+          "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31068",
+          "url": "https://www.aibase.com/news/31092",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:02:47.386434Z"
+          "published_at": "2026-09-16T11:35:13.773694Z"
         }
       ],
       "source_count": 1,
@@ -1529,18 +1498,18 @@
       ],
       "items": [
         {
-          "id": "33ee95b39ec920aa173bac762ec02e52efb29daa",
-          "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-          "title_zh": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
+          "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
+          "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+          "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
           "title_en": null,
-          "title_original": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
+          "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31068",
+          "url": "https://www.aibase.com/news/31092",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:02:47.386434Z"
+          "published_at": "2026-09-16T11:35:13.773694Z"
         }
       ],
       "item_count": 1,
@@ -1561,17 +1530,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T06:02:47.386434Z",
-      "latest_at": "2026-09-16T06:02:47.386434Z",
+      "earliest_at": "2026-09-16T11:35:13.773694Z",
+      "latest_at": "2026-09-16T11:35:13.773694Z",
       "primary_item": {
-        "id": "33ee95b39ec920aa173bac762ec02e52efb29daa",
-        "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-        "title_zh": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
+        "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
+        "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+        "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
         "title_en": null,
-        "title_original": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
+        "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31068",
+        "url": "https://www.aibase.com/news/31092",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1579,30 +1548,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
-      "story_id": "story_2fc03dc93a33",
-      "title": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-      "url": "https://www.aibase.com/news/31070",
-      "primary_url": "https://www.aibase.com/news/31070",
+      "story_id": "story_13603bf46f67",
+      "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+      "url": "https://www.aibase.com/news/31098",
+      "primary_url": "https://www.aibase.com/news/31098",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4886a2562b8177ee9189ed31a2d2aecfd6b26b77",
-          "title": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-          "title_zh": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
+          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
+          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
           "title_en": null,
-          "title_original": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
+          "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31070",
+          "url": "https://www.aibase.com/news/31098",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:02:47.386434Z"
+          "published_at": "2026-09-16T11:35:13.773694Z"
         }
       ],
       "source_count": 1,
@@ -1611,18 +1580,18 @@
       ],
       "items": [
         {
-          "id": "4886a2562b8177ee9189ed31a2d2aecfd6b26b77",
-          "title": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-          "title_zh": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
+          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
+          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
           "title_en": null,
-          "title_original": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
+          "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31070",
+          "url": "https://www.aibase.com/news/31098",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:02:47.386434Z"
+          "published_at": "2026-09-16T11:35:13.773694Z"
         }
       ],
       "item_count": 1,
@@ -1643,17 +1612,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T06:02:47.386434Z",
-      "latest_at": "2026-09-16T06:02:47.386434Z",
+      "earliest_at": "2026-09-16T11:35:13.773694Z",
+      "latest_at": "2026-09-16T11:35:13.773694Z",
       "primary_item": {
-        "id": "4886a2562b8177ee9189ed31a2d2aecfd6b26b77",
-        "title": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
-        "title_zh": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
+        "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
+        "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+        "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
         "title_en": null,
-        "title_original": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日下线：ChatGPT 与 Codex 同步移除",
+        "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31070",
+        "url": "https://www.aibase.com/news/31098",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1661,30 +1630,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
-      "story_id": "story_8b50271636c2",
-      "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-      "url": "https://www.aibase.com/news/31080",
-      "primary_url": "https://www.aibase.com/news/31080",
+      "story_id": "story_648056bc9799",
+      "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
+      "url": "https://www.aibase.com/news/31095",
+      "primary_url": "https://www.aibase.com/news/31095",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-          "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "id": "d3de1ede43317dce2539ab2b2542e8406adbb6e5",
+          "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
+          "title_zh": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
           "title_en": null,
-          "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_original": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31080",
+          "url": "https://www.aibase.com/news/31095",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:02:47.386434Z"
+          "published_at": "2026-09-16T11:35:13.773694Z"
         }
       ],
       "source_count": 1,
@@ -1693,18 +1662,18 @@
       ],
       "items": [
         {
-          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-          "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "id": "d3de1ede43317dce2539ab2b2542e8406adbb6e5",
+          "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
+          "title_zh": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
           "title_en": null,
-          "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_original": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31080",
+          "url": "https://www.aibase.com/news/31095",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:02:47.386434Z"
+          "published_at": "2026-09-16T11:35:13.773694Z"
         }
       ],
       "item_count": 1,
@@ -1725,17 +1694,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T06:02:47.386434Z",
-      "latest_at": "2026-09-16T06:02:47.386434Z",
+      "earliest_at": "2026-09-16T11:35:13.773694Z",
+      "latest_at": "2026-09-16T11:35:13.773694Z",
       "primary_item": {
-        "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-        "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-        "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "id": "d3de1ede43317dce2539ab2b2542e8406adbb6e5",
+        "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
+        "title_zh": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
         "title_en": null,
-        "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "title_original": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31080",
+        "url": "https://www.aibase.com/news/31095",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1743,30 +1712,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     },
     {
-      "story_id": "story_6781aac070ee",
-      "title": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
-      "url": "https://www.aibase.com/news/31074",
-      "primary_url": "https://www.aibase.com/news/31074",
+      "story_id": "story_f90f376fdee8",
+      "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
+      "url": "https://www.aibase.com/news/31091",
+      "primary_url": "https://www.aibase.com/news/31091",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8efc9cacbd71dfb9034fdcb3f5bb4e232f2cffc4",
-          "title": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
-          "title_zh": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
+          "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
+          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
+          "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
           "title_en": null,
-          "title_original": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
+          "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31074",
+          "url": "https://www.aibase.com/news/31091",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:02:47.386434Z"
+          "published_at": "2026-09-16T11:35:13.773694Z"
         }
       ],
       "source_count": 1,
@@ -1775,18 +1744,18 @@
       ],
       "items": [
         {
-          "id": "8efc9cacbd71dfb9034fdcb3f5bb4e232f2cffc4",
-          "title": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
-          "title_zh": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
+          "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
+          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
+          "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
           "title_en": null,
-          "title_original": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
+          "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31074",
+          "url": "https://www.aibase.com/news/31091",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:02:47.386434Z"
+          "published_at": "2026-09-16T11:35:13.773694Z"
         }
       ],
       "item_count": 1,
@@ -1807,17 +1776,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T06:02:47.386434Z",
-      "latest_at": "2026-09-16T06:02:47.386434Z",
+      "earliest_at": "2026-09-16T11:35:13.773694Z",
+      "latest_at": "2026-09-16T11:35:13.773694Z",
       "primary_item": {
-        "id": "8efc9cacbd71dfb9034fdcb3f5bb4e232f2cffc4",
-        "title": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
-        "title_zh": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
+        "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
+        "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
+        "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
         "title_en": null,
-        "title_original": "​Google 官宣 Gemini 3.8 Live，首创“边说边想”颠覆行业交互",
+        "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31074",
+        "url": "https://www.aibase.com/news/31091",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1825,7 +1794,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T06:41:33.554669Z"
+        "scored_at": "2026-09-16T11:36:10.811808Z"
       }
     }
   ]
